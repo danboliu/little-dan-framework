@@ -2,8 +2,6 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
-
-*[Contact me](mailto:truedanbo@hotmail.com)*
 ---
 
 ## 1. Introduction
@@ -116,7 +114,9 @@ This project is open-source and welcomes contributions. You can:
 - Contribute diagrams, journaling methods, or philosophical refinements  
 - Translate the ideas into other mediums: apps, artwork, stories, AI prompts
 
-This framework is a living theory. Let it evolve with you.
+This framework is a living theory. Let's evolve together.
+
+Thanks for your support and any feedback please reach out to me [here](mailto:truedanbo@hotmail.com)*
 
 ---
 
