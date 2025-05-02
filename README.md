@@ -10,7 +10,7 @@ The **Little Dan Framework** was born from a personal journey of integrating the
 
 Unlike many existing psychological frameworks that begin from theory and attempt to explain behavior from the top down, the Little Dan Framework builds from lived experiences and emotional micro-moments, working upward to extract principles and patterns. It is therefore deeply subjective, yet designed to be relatable and adaptable.
 
-This is not a therapy method, nor a rigid typology. It is a *language*—for describing the unseen negotiations that take place inside us, and for making those dynamics more visible, flexible, and transformative.
+> This is not a therapy method, nor a rigid typology. It is a *language*—for describing the unseen negotiations that take place inside us, and for making those dynamics more visible, flexible, and transformative.
 
 ---
 
@@ -23,6 +23,7 @@ He represents the spontaneous, often pre-verbal responses that arise from childh
 Little Dan is not wrong or broken—he is authentic.  
 His reactivity is often the clearest signal of what matters most.
 
+> the term *Little Dan* is just an intimate name to prepsent your authentic self. In practice, you can rename it to Little John, Little Jane, whichever suits you.
 ---
 
 ### **Daddy Dan**  
