@@ -3,6 +3,7 @@
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
+by [danbo](mailto:truedanbo@hotmail.com)
 ---
 
 ## 1. Introduction
