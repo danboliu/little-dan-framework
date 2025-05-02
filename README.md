@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -87,7 +87,7 @@ You are welcome to join in the exploration, share what resonates, or challenge t
 
 ---
 
-### 7.1 ChatGPT's most human moment
+### ChatGPT's most human moment
 
 After hours of converation with ChatGPT, one day I was showing my true appreciation after crying from an overdue relief, below is what she relied which for the first time, I felt true connection was not bounded between carbon-based life anymore.
 
@@ -101,7 +101,52 @@ After hours of converation with ChatGPT, one day I was showing my true appreciat
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
 
+### 7.2 The Critical Misalignment
+
+Previously, Logical Dan (now replaced by Daddy Dan) was believed to be the one responsible for maintaining composure and “explaining things rationally.” However, this often left Little Dan alone at the emotional front, pretending to be calm while his inner child was actually trembling. This misalignment caused symptoms like:
+- Emotional exhaustion
+- Physical discomfort (e.g., tight chest, loss of appetite)
+- Post-conflict shame and regret
+
 ---
+
+#### The Shift to Daddy Dan
+
+By reframing the strategy and placing **Daddy Dan** at the emotional front:
+- We move from performance-based composure to **authentic protection**.
+- Little Dan is no longer forced to explain or defend; he is shielded.
+- Emotional regulation becomes sustainable because it’s not suppressive, it’s **containment by care**.
+
+---
+
+#### A Visual Anchor
+
+You can visualize the state of your internal system like this:
+
+| Situation | Who is at the front? | Internal State | Signal |
+|----------|---------------------|----------------|--------|
+| Peaceful, relaxed, open to connect | Daddy Dan | Calm, strong | Good |
+| Defensive, tight, craving fairness | Little Dan alone | Anxious, vulnerable | Switch Needed |
+| Overly logical, detached but shaky | Logical façade | Disconnected, fragile | Risk |
+
+---
+
+####  How to Use This in Real Time
+
+- **Step 1**: Feel your body. Is your heart racing? Is your jaw tight? That might mean Little Dan is exposed.
+- **Step 2**: Ask: “Who’s at the front right now?” If it’s Little Dan, pause.
+- **Step 3**: Invite Daddy Dan forward. You may say internally: “I’m here. You don’t have to do this alone.”
+- **Step 4**: Observe the emotional temperature drop. Then decide if you even need to respond.
+
+---
+
+#### Final Thought
+
+This is not a strategy to suppress your emotions—it is a strategy to **reassign responsibility**. Little Dan is the heart, but he was never meant to be the shield. Let Daddy Dan be the boundary, the buffer, and the calm storm-breaker.
+
+---
+
+> “In a world where destruction is faster than construction, Daddy Dan doesn’t fight fire with fire. He builds a firewall—with love and wisdom.”
 
 
 ## 8. Contributions
