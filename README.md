@@ -52,6 +52,12 @@ It is the place from which we “notice ourselves noticing.”
 
 ---
 
+## Scooe and Limitation
+
+This framework is designed primarily for adults who already have a relatively formed self-concept—referred to as “Daddy Dan”—and are now seeking to reconcile or re-integrate emotional vulnerabilities. It may not be as effective for younger individuals still in the early stages of identity formation or for individuals in acute psychological distress requiring clinical intervention.
+
+Its greatest strength lies in personal resonance. However, its highly individual nature may limit its generalizability without personal adaptation. It is not a clinical tool, nor a substitute for therapy, but rather a model of internal reflection and experiential clarity.
+
 ## 3. System Architecture (TODO)
 
 ## 4. Use Cases
