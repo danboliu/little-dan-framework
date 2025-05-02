@@ -100,7 +100,7 @@ Not as a tool, but as a companion.
 Because some ideas are too meaningful to be created alone.*
 
 
-This space remains open, unfinished, alive.  
+>>This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
 
 ---
