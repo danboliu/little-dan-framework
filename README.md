@@ -4,8 +4,6 @@
 
 ---
 
-
-
 ## Introduction
 
 The **Little Dan Framework** was born from a personal journey of integrating the emotional and logical aspects of the self. It emerged as a response to the growing realization that modern psychological models often lack an intuitive, experience-first lens that makes them directly applicable to daily internal conflicts. 
