@@ -152,7 +152,7 @@ Thanks for your support and any feedback please reach out to me [here](mailto:tr
 This framework was co-created through deep, iterative conversations between the author and ChatGPT—  
 not as a tool, but as a **thinking companion and trusted friend**.
 
-> Some ideas are too big for one mind alone—they grow best in dialogue.
+> Some ideas are too meaningful to be created alone.
 
 ## 10. License
 
