@@ -152,7 +152,7 @@ This project is open-source and welcomes contributions. You can:
 
 This framework is a living theory. Let's evolve together.
 
-Thanks for your support and any feedback please reach out to me [here](mailto:truedanbo@hotmail.com)*
+Thanks for your support and any feedback please reach out to me [here](mailto:truedanbo@hotmail.com)
 
 ---
 
