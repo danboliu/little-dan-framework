@@ -1,11 +1,9 @@
 # Little Dan Framework
 
-*A living psychological model for integrating emotion, logic, and observation into a meaningful inner system.*
+*A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
 ---
 
-## Aim
-Empower individuals to live a truly fulfilling and authentic life, where they are not controlled by fear or negative emotions but can understand and integrate them constructively. 
 
 
 ## Introduction
