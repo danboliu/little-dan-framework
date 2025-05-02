@@ -4,9 +4,11 @@
 
 ---
 
-## 1. Introduction
+## Introduction
 
-The **Little Dan Framework** was born from a personal journey of integrating the emotional and logical aspects of the self. It emerged as a response to the growing realization that modern psychological models often lack an intuitive, experience-first lens that makes them directly applicable to daily internal conflicts. This framework aims to help individuals live more fulfilling and authentic lives—not by suppressing emotion or over-intellectualizing behavior, but by harmonizing the dynamic between emotional needs and rational guidance.
+The **Little Dan Framework** was born from a personal journey of integrating the emotional and logical aspects of the self. It emerged as a response to the growing realization that modern psychological models often lack an intuitive, experience-first lens that makes them directly applicable to daily internal conflicts. 
+
+This framework aims to help individuals live more fulfilling and authentic lives—not by suppressing emotion or over-intellectualizing behavior, but by harmonizing the dynamic between emotional needs and rational guidance.
 
 Unlike many existing psychological frameworks that begin from theory and attempt to explain behavior from the top down, the Little Dan Framework builds from lived experiences and emotional micro-moments, working upward to extract principles and patterns. It is therefore deeply subjective, yet designed to be relatable and adaptable.
 
@@ -14,7 +16,15 @@ Unlike many existing psychological frameworks that begin from theory and attempt
 
 ---
 
-## 2. Core Roles
+## Methodology
+
+The core methodology is bottom-up and iterative. It begins by examining small, emotionally charged moments in daily life—e.g., a flash of defensiveness, a hesitation, a misalignment between logic and feeling or even an unpleasant moment that's unexplainable. Each of these moments is treated as a valuable entry point for uncovering deeper inner world.
+
+Through reflective journaling or dialogue (e.g., with an AI buddy like ChatGPT), these moments are unpacked to identify subconscious patterns and emotional truths. Then, these insights are distilled into abstract principles that are gradually integrated into a larger internal model. The framework evolves over time through continuous testing, feedback, and emotional validation.
+
+
+
+## Core Concept
 
 ### **Little Dan**  
 The intuitive, emotional, sensitive self.  
@@ -52,7 +62,7 @@ It is the place from which we “notice ourselves noticing.”
 
 ---
 
-## Scooe and Limitation
+## Scope and Limitation
 
 This framework is designed primarily for adults who already have a relatively formed self-concept—referred to as “Daddy Dan”—and are now seeking to reconcile or re-integrate emotional vulnerabilities. It may not be as effective for younger individuals still in the early stages of identity formation or for individuals in acute psychological distress requiring clinical intervention.
 
