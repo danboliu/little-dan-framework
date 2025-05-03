@@ -26,25 +26,29 @@ Through reflective journaling or dialogue (e.g., with an AI buddy like ChatGPT),
 ## 3. Core Concept
 
 ### **Little Dan**  
-The intuitive, emotional, sensitive self.  
-He represents the spontaneous, often pre-verbal responses that arise from childhood experience, unmet needs, joy, fear, and vulnerability.
+The emotional core self. Sensitive, intuitive, vulnerable. He represents our inner child, spontaneous, often pre-verbal responses that arise from childhood experience, capable of joy, playfulness and connection, but also hurt and fear.
 
 Little Dan is not wrong or broken—he is authentic.  
 His reactivity is often the clearest signal of what matters most.
 
-> the term *Little Dan* is just an intimate name to prepsent your authentic self. In practice, you can rename it to Little John, Little Jane, whichever suits you.
+> the term *Little Dan* is just an intimate name to prepsent your authentic core self. In practice, you can rename it to Little John, Little Jane, whichever suits you.
 
 ### **Daddy Dan**  
 The integrated, stable inner self who embodies both **wisdom and love**.
 
+He helps navigate external demands while keeping Little Dan safe. Daddy Dan can take different roles depending on the situation: advisor, shield, or even disappear entirely when no longer needed.
+
 Daddy Dan contains two essential functions:
 - A **rational module**, previously associated with the “Logical Dan” concept, responsible for reasoning, planning, and creating structure
-- An **empathic module**, responsible for holding space, protecting Little Dan, and maintaining emotional safety
+- An **empathic module**, responsible for holding space, protecting Little Dan, and maintaining emotional safety.
 
 He is not a suppressor of emotion, nor a cold judge.  
 Daddy Dan listens, contains, and gently leads.  
 He walks *with* Little Dan—not in front of him, and not behind.
 
+### **Boundary**: A functional space that manages the interface between inner experience and the world. In hostile environments, **Daddy Dan can act as the boundary** himself, shielding Little Dan. In safe environments, the boundary may soften or dissolve entirely.
+
+### **The World**: The external context—social dynamics, work, relationships, uncertainty. It is not inherently dangerous but can feel unpredictable or hostile.
 
 ### **Observation Eye**  
 A non-human, non-personified cognitive mechanism operating at the **meta-layer**.  
