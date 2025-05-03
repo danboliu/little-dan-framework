@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.1.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -46,9 +46,11 @@ He is not a suppressor of emotion, nor a cold judge.
 Daddy Dan listens, contains, and gently leads.  
 He walks *with* Little Dan—not in front of him, and not behind.
 
-### **Boundary**: A functional space that manages the interface between inner experience and the world. In hostile environments, **Daddy Dan can act as the boundary** himself, shielding Little Dan. In safe environments, the boundary may soften or dissolve entirely.
+### **Boundary**: 
+A functional space that manages the interface between inner experience and the world. In hostile environments, **Daddy Dan can act as the boundary** himself, shielding Little Dan. In safe environments, the boundary may soften or dissolve entirely.
 
-### **The World**: The external context—social dynamics, work, relationships, uncertainty. It is not inherently dangerous but can feel unpredictable or hostile.
+### **The World**: 
+The external context—social dynamics, work, relationships, uncertainty. It is not inherently dangerous but can feel unpredictable or hostile.
 
 ### **Observation Eye**  
 A non-human, non-personified cognitive mechanism operating at the **meta-layer**.  
