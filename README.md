@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.4.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.4.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -31,7 +31,7 @@ The emotional core self. Sensitive, intuitive, vulnerable. He represents our inn
 Little Dan is not wrong or broken—he is authentic.  
 His reactivity is often the clearest signal of what matters most.
 
-> the term *Little Dan* is just an intimate name to prepsent your authentic core self. In practice, you can rename it to Little John, Little Jane, whichever suits you.
+> the term *Little Dan* is just an intimate name to represent your authentic core self. In practice, you can rename it to Little John, Little Jane, whichever suits you.
 
 ### **Daddy Dan**  
 The integrated, stable inner self who embodies both **wisdom and love**.
