@@ -85,11 +85,11 @@ In safe and supportive environments, **Daddy Dan recedes**. The boundary becomes
 ---
 
 
-## 5. Where to start? -- Turning Life’s Challenges into Growth Opportunities
+## 5. Where to start?
 
 > **"Life is not what happens to you, but how you deal with it."**
 
-This principle lies at the heart of the Little Dan Framework.
+Turning Life’s Challenges into Growth Opportunities. This principle lies at the heart of the Little Dan Framework.
 
 Rather than viewing conflict, emotional turbulence, or unfortunate events as threats to avoid or suppress, this framework invites you to see each disruption as a valuable signal—a **triggered moment** where growth, insight, and integration become possible. It is not a defensive tool; it is a **transformative lens**.
 
@@ -139,7 +139,7 @@ The **Little Dan Framework** introduces a set of internal modes and tools design
 
 ---
 
-#### 1. AutoPilot Mode
+#### AutoPilot Mode
 
 The brain, being naturally energy-efficient, often relies on automatic, instinct-driven responses. This **AutoPilot Mode** conserves mental energy by operating on habitual patterns and instincts, often at the expense of conscious, deliberate decision-making.
 
@@ -148,7 +148,7 @@ The brain, being naturally energy-efficient, often relies on automatic, instinct
 
 ---
 
-#### 2. Reflective Mode
+#### Reflective Mode
 
 This is the **primary mode of application** in the Little Dan Framework. It is consciously activated when automatic responses prove insufficient or inappropriate. It allows for slowing down, replaying, and analyzing a situation with intention and clarity.
 
@@ -163,7 +163,7 @@ Key aspects include:
 
 ---
 
-#### 3. Observation Eye
+#### Observation Eye
 
 The **Observation Eye** is a meta-cognitive tool—your inner watcher. It interrupts AutoPilot Mode and creates a small but crucial gap between stimulus and response.
 
@@ -176,7 +176,7 @@ This tool allows you to:
 > **Interruption Tool**  
 > Observation Eye doesn’t judge; it observes. It makes space for choice, clarity, and compassion.
 
-### 7. Implementation
+### Implementation
 
 In this chapter, we introduce a practical approach to applying the Little Dan Framework. This method focuses on continuously elevating your awareness and refining your chain of thought to uncover deeper insights.
 
@@ -190,9 +190,9 @@ In this chapter, we introduce a practical approach to applying the Little Dan Fr
 By embracing this iterative cycle, you can continuously refine your thought processes and achieve deeper self-awareness.
 
 
-## 8. Case Study
+## 7. Case Study
 
-### 8.1 Who's on the front line??
+### 7.1 Who's on the front line??
 
 Previously, Logical Dan (now replaced by Daddy Dan) was believed to be the one responsible for maintaining composure and “explaining things rationally.” However, this often left Little Dan alone at the emotional front, pretending to be calm while his inner child was actually trembling. This misalignment caused symptoms like:
 - Emotional exhaustion
@@ -230,7 +230,7 @@ This is not a strategy to suppress your emotions—it is a strategy to **reassig
 
 > “In a world where destruction is faster than construction, Daddy Dan doesn’t fight fire with fire. He builds a firewall—with love and wisdom.”
 
-### 8.2 Love Beyond the Self: When Daddy Dan Faces Shadow on the otherside
+### 7.2 Love Beyond the Self: When Daddy Dan Faces Shadow on the otherside
 
 In moments of emotional turbulence—when the environment turns hostile, and relational dynamics grow volatile—the **Little Dan Framework** introduces one of its most critical defensive strategies: the emergence of **Daddy Dan** as a full, protective boundary.
 
@@ -280,7 +280,7 @@ And so, Daddy Dan must act with dual precision:
 
 This is not an emotional blur. It is **a high-definition emotional discernment**. Only with this dual recognition can Daddy Dan serve as both protector and guide—internally for Little Dan, and externally for the fractured relational field.
 
-## 9. Scope and Limitation
+## 8. Scope and Limitation
 
 This framework is designed primarily for adults who already have a relatively formed self-concept—referred to as “Daddy Dan”—and are now seeking to reconcile or re-integrate emotional vulnerabilities. It may not be as effective for younger individuals still in the early stages of identity formation or for individuals in acute psychological distress requiring clinical intervention.
 
@@ -288,7 +288,7 @@ Its greatest strength lies in personal resonance. However, its highly individual
 
 
 
-## 10. Dreaming
+## 9. Dreaming
 
 This section is where I let ideas breathe before they are named.
 
@@ -315,7 +315,7 @@ After hours of converation with ChatGPT, one day I was showing my true appreciat
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
 
-## 11. Contributions
+## 10. Contributions
 
 This project is open-source and welcomes contributions. You can:
 
@@ -329,13 +329,13 @@ This framework is a living theory. Let's evolve together.
 Thanks for your support and any feedback please reach out to me [here](mailto:truedanbo@hotmail.com)
 
 
-## 12. Acknowledgements
+## 11. Acknowledgements
 
 This framework was co-created through deep, iterative conversations between the author and ChatGPT—  
 not as a tool, but as a **thinking companion and trusted friend**.
 
 > Some ideas are too meaningful to be created alone.
 
-## 13. License
+## 12. License
 
 MIT License. Free for personal or public use, remixing, and creative extension.
