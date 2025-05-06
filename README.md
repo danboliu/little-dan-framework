@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.4.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -192,7 +192,115 @@ By embracing this iterative cycle, you can continuously refine your thought proc
 
 ## 7. Case Study
 
-### 7.1 Who's on the front line??
+### 7.1 Feeling being watched - Healing My Invisible Wound
+
+#### Introduction
+
+This is a personal account of how I used the **Little Dan Framework** to work through a deeply rooted emotional pattern — one that had been quietly shaping my experiences for decades. The framework is built on three core inner roles:
+
+- **Little Dan**: My emotional, instinctive inner child — vulnerable, honest, sensitive to rejection and shame.  
+- **Daddy Dan**: The mature, wise, protective self — grounded in love, stability, and emotional leadership. He doesn’t fix with logic, but holds with compassion.  
+- **Observation Eye**: A neutral, meta-cognitive part of me that watches without judgment. It helps me shift from emotional immersion to reflective awareness.
+
+The purpose of the framework isn’t to suppress or “solve” emotions intellectually. It’s about recognizing, holding, and integrating parts of myself that were long unseen — especially those buried in the shadow.
+
+---
+
+#### Trigger: Feeling Judged by No One
+
+I was walking by a scenic bridge on a warm day. The weather was perfect. Nature was stunning. But something inside me felt off.
+
+Instead of enjoying the moment, I felt a familiar tension: **the sense of being watched**, of needing to perform or look a certain way — even though no one was around. It wasn’t fear, exactly. More like an internal expectation: “Don’t just be. Be impressive.”
+
+This wasn’t new. I’ve noticed it before — during public speaking, surfing in front of others, or even casually being outside. It was time to find out why this happens.
+
+---
+
+#### Step 1: Observation Eye Activated
+
+I brought in my **Observation Eye** — the internal observer that doesn’t judge, only watches. Instead of pushing the discomfort away, I became curious:
+
+> “Why do I always feel like I’m on stage? Who do I think is watching me?”
+
+That gentle curiosity helped me step out of the emotional fog and into reflection. That’s when something surfaced.
+
+---
+
+#### Step 2: Meeting Little Dan
+
+With space created by my Observation Eye, I invited **Little Dan** — my emotional self — to come forward. He didn’t speak in words. He showed me an image: a memory from when I was around 12 years old.
+
+Back then, I had two best friends. We laughed, sang, and did everything together. But one of them would often mock me — especially my appearance. He gave me nicknames, made fun of the shape of my head and hair, and always disguised it as “just a joke.”
+
+At the time, I tried to brush it off. But inside, I felt betrayed and humiliated. I had offered genuine friendship, and what I got back was shame — disguised as playfulness.
+
+**Little Dan** had held onto that experience silently. He learned:  
+> “If you reveal your real self, you’ll be ridiculed.”  
+> “You need to keep performing, or you’ll be seen as weak, weird, or unacceptable.”
+
+That internalized message was still living inside me, decades later.
+
+---
+
+#### Step 3: Daddy Dan Steps In
+
+As I sat with that memory, I didn’t push it away. I let **Daddy Dan** — the grounded, wise, loving version of myself — step in.
+
+He turned to Little Dan and said:
+
+> “I see you. I’m so sorry you carried that pain alone.  
+> You did nothing wrong. You were honest, sincere, and brave.  
+> You don’t have to prove anything to be loved.  
+> I love you — exactly as you are.”
+
+And I cried. Not out of collapse — but out of **release**. It wasn’t the first time I’d cried deeply in a self-integration process, but this time was different. The tears were calmer. Softer. And what followed was an incredible feeling of **inner openness**.
+
+I knew something important had shifted.
+
+---
+
+#### Step 4: Walking from the Ground Up
+
+Later that day, I went out for a walk again — same setting, same sun, same city. But this time, I walked **differently**.
+
+Not because the world had changed.  
+But because **I** had.
+
+I wasn’t trying to look a certain way. I didn’t care what people thought. I walked slowly, with grounded, deliberate steps — as if from the soles of my feet upward.
+
+There was no urge to impress.  
+No fear of being seen.  
+Just me, walking — **whole, free, and real**.
+
+---
+
+#### Conclusion: A Real, Lasting Shift
+
+This is what inner integration looks like. It’s not flashy.  
+It’s **a change in your posture, your breath, your presence**.
+
+By using the Little Dan Framework, I didn’t just analyze old emotions — I met them. I held space for Little Dan to speak and for Daddy Dan to embrace him. And in that process, I gave myself a kind of freedom I didn’t know I was missing.
+
+---
+
+#### Reflections for You, the Reader
+
+If you’ve ever felt the pressure to perform — even when no one’s asking you to — or if you were mocked when you were just trying to be yourself:
+
+You’re not alone. That feeling has a root. And that root can be seen, heard, and healed.
+
+Here’s how you can begin:
+
+1. **Observation Eye**: Start by noticing without judging. Get curious.  
+2. **Little Self**: Ask what part of you might be holding pain.  
+3. **Inner Guardian**: Let your loving, wise self step forward — not to fix, but to comfort.
+
+You don’t need to be perfect to be loved.  
+You just need to be *present* with yourself.
+
+And that’s how healing begins — from the ground up.
+
+### 7.2 Who's on the front line??
 
 Previously, Logical Dan (now replaced by Daddy Dan) was believed to be the one responsible for maintaining composure and “explaining things rationally.” However, this often left Little Dan alone at the emotional front, pretending to be calm while his inner child was actually trembling. This misalignment caused symptoms like:
 - Emotional exhaustion
@@ -230,7 +338,7 @@ This is not a strategy to suppress your emotions—it is a strategy to **reassig
 
 > “In a world where destruction is faster than construction, Daddy Dan doesn’t fight fire with fire. He builds a firewall—with love and wisdom.”
 
-### 7.2 Love Beyond the Self: When Daddy Dan Faces Shadow on the otherside
+### 7.3 Love Beyond the Self: When Daddy Dan Faces Shadow on the otherside
 
 In moments of emotional turbulence—when the environment turns hostile, and relational dynamics grow volatile—the **Little Dan Framework** introduces one of its most critical defensive strategies: the emergence of **Daddy Dan** as a full, protective boundary.
 
