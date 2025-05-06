@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.4.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.4.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -300,7 +300,152 @@ You just need to be *present* with yourself.
 
 And that’s how healing begins — from the ground up.
 
-### 7.2 Who's on the front line??
+### 7.2 Case Study: Presentation Anxiety – Rewriting the Internal Script with the Little Dan Framework
+
+> *“I can face death, but I tremble in front of a crowd.”*
+
+#### Background  
+The subject (me) is a confident adult with a deep love for surfing, an indifference toward death, money, and power, and a generally grounded sense of self. However, I experience intense performance anxiety during high-stakes work presentations. The moment I sense a performance slip or mistake—especially something minor like a misused term or missed slide—I spiral into self-doubt, physical tension, and afterward, lingering shame.
+
+Despite being fearless in physical pursuits like surfing large waves, I become overwhelmingly tense when imagining others judging me in professional settings. This case study explores that contradiction and maps the internal mechanism using the Little Dan Framework.
+
+---
+
+#### Discovery Process (Led by the Observation Eye)
+
+1. **Initial Trigger**  
+   Every time I need to present in front of an audience—especially if the stakes are high or the room is filled with senior people—my body tenses, I sweat, I blush. Even when well-prepared, if I make a small mistake, the inner collapse begins.
+
+2. **Emotional Reactions (Little Dan)**  
+   - Fear of being seen as incompetent  
+   - Shame triggered by even minor performance flaws  
+   - Post-event rumination: “They must think I’m a fraud.”
+
+3. **Initial Rational Confusion (Daddy Dan is silent)**  
+   I’ve faced danger in surfing. I don’t care if I wipe out. Why does *this* moment—just talking—feel more threatening?
+
+---
+
+#### Inner Logic Chain Revealed (By Observation Eye)
+
+Through reflective inquiry, I (Observation Eye) traced Little Dan’s automatic thought pattern:
+
+- “If I make a visible mistake…”  
+- “They’ll realize I’m not as good as they thought.”  
+- “Once exposed, they’ll no longer respect me.”  
+- “Their loss of respect proves I’m not actually good.”  
+- “If I’m not good, I’m a fraud.”  
+- “If I’m a fraud, I don’t deserve recognition.”  
+- → **“Without recognition, I lose value.”**  
+- → **“If I have no value, I shouldn't exist.”** ← **Subconscious existential fear**
+
+This cascade is powered by a deep-seated **positive feedback loop** built since childhood:
+
+> Consistent praise for high performance led to an internal rule:  
+> **“The better I perform, the more I’m loved → The more I’m loved, the more I matter.”**  
+> This conditioned me to rely on flawless performance as my emotional survival mechanism.
+
+---
+
+#### Critical Logic Flaw: Spotted by Observation Eye
+
+Here’s the **key distortion** that fuels the emotional collapse:
+
+> **“Being flawless leads to being worthy” ≠ “Being flawed leads to being unworthy.”**
+
+Little Dan believes that because flawlessness earned him approval, the inverse must also be true. But Observation Eye points out that this is **a cognitive fallacy**, not a logical law.
+
+> “Flawlessness may earn recognition—but it’s not the source of your value.  
+> Worth is not contingent on applause. It’s internal, not conditional.”  
+
+---
+
+#### Thought Experiment: The Worst-Case Collapse
+
+To dismantle the emotional urgency, Observation Eye introduces a **rational thought experiment**:
+
+> “Okay, Little Dan. Let’s assume the worst happens. You totally botch the presentation:  
+> You freeze, forget your lines, someone senior rolls their eyes, your voice cracks.  
+> Maybe your boss even gives you negative feedback.”
+
+Now ask the question:  
+> **“Will I die?”**  
+
+No.
+
+> “Will I be exiled? Will I lose all my relationships? Will I be imprisoned?  
+> Will I even lose my job just because of one bad presentation?”
+
+Still no. In a **modern society**, the consequences of performance collapse are **almost never physical or existential**.  
+Yet Little Dan reacts **as if he’s on a battlefield**, not in a boardroom.
+
+This **miscalibrated fear response** is a relic from evolution—our nervous system still treats **social rejection as a survival threat**, even though the **actual risk today is reputational, not mortal**.
+
+---
+
+#### Internal Roles Activated
+
+##### Little Dan  
+Panics under the illusion that a single mistake equals permanent devaluation and emotional death.
+
+##### Daddy Dan  
+Steps in to reframe and soothe:
+> “Even if you messed up, you are still here, still valuable, still learning.  
+> Nobody ever died from looking unprepared. You’re not here to be perfect. You’re here to grow.”  
+
+He grounds Little Dan in reality and injects warmth and perspective.
+
+##### Observation Eye  
+Catches the unconscious jumps in logic and shines a spotlight on false cause-effect links:  
+- **From mistake → to fraud → to existential erasure.**  
+> “Let’s pause. This is a mistake, not a meaning.”  
+> “This is a wave. You don’t drown. You ride, recover, and reset.”  
+
+---
+
+#### Integration Practice
+
+##### Before Presentation:
+- **Mantra:** “My goal is presence, not perfection.”  
+- **Daddy Dan whispers:** “The wave might come. You’ve ridden worse.”  
+- **Little Dan is heard and held, not silenced.**
+
+##### During Presentation:
+- Breathe. Anchor in the message, not the mirror.  
+- If nerves appear, acknowledge: “Ah, the wave is here. Let’s stay loose.”  
+- Mistakes are folded in, not fought.
+
+##### After Mistake:
+- **Daddy Dan:** “Still here. Still worthy. Now wiser.”  
+- **Observation Eye:** “What really happened? What did you learn?”
+
+---
+
+#### Outcome
+
+Over time, with intentional engagement:
+- The fear of “being found out” diminished.  
+- Mistakes became part of the landscape, not proof of failure.  
+- Performance became a form of self-expression, not self-judgment.  
+- The dependency on external validation weakened.  
+
+---
+
+#### Summary
+
+This case shows how **performance anxiety is often rooted in a distorted emotional logic**:  
+> **“If I’m not flawless, I’m not worthy.”**  
+> And underneath it, a primitive fear: **“If I lose approval, I’ll die.”**
+
+The Little Dan Framework transforms this:
+- **Little Dan feels.**  
+- **Daddy Dan reframes.**  
+- **Observation Eye reveals the false links.**
+
+> **Freedom begins when we stop reacting to social mistakes as if they were mortal threats—  
+and start seeing them as waves to ride, not drown in.**
+
+### 7.3 Who's on the front line??
 
 Previously, Logical Dan (now replaced by Daddy Dan) was believed to be the one responsible for maintaining composure and “explaining things rationally.” However, this often left Little Dan alone at the emotional front, pretending to be calm while his inner child was actually trembling. This misalignment caused symptoms like:
 - Emotional exhaustion
@@ -338,7 +483,7 @@ This is not a strategy to suppress your emotions—it is a strategy to **reassig
 
 > “In a world where destruction is faster than construction, Daddy Dan doesn’t fight fire with fire. He builds a firewall—with love and wisdom.”
 
-### 7.3 Love Beyond the Self: When Daddy Dan Faces Shadow on the otherside
+### 7.4 Love Beyond the Self: When Daddy Dan Faces Shadow on the otherside
 
 In moments of emotional turbulence—when the environment turns hostile, and relational dynamics grow volatile—the **Little Dan Framework** introduces one of its most critical defensive strategies: the emergence of **Daddy Dan** as a full, protective boundary.
 
