@@ -503,7 +503,7 @@ This dependency—rooted in a lifetime of success—was the very thing now causi
 
 ---
 
-## Turning Point: The Inner Visualization
+#### Turning Point: The Inner Visualization
 
 Realising this, Dan had a breakthrough. In a particularly heated moment at work, he paused, closed his eyes, and visualized the internal drama.
 
@@ -524,7 +524,7 @@ The outside hasn’t changed—but something inside did.
 
 ---
 
-## Insight: The Root Belief and Its Flaw
+#### Insight: The Root Belief and Its Flaw
 
 At the heart of Dan’s emotional reactivity was a silent but firm assumption:
 
@@ -545,7 +545,7 @@ This was the beginning of reclaiming sovereignty over his emotional life.
 
 ---
 
-## Conclusion: Toward Internal Recognition
+#### Conclusion: Toward Internal Recognition
 
 The story of Dan isn’t just personal—it’s archetypal.  
 Many high performers carry the same hidden wiring.  
