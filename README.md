@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.5.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.5.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -57,6 +57,8 @@ The external context—social dynamics, work, relationships, uncertainty. It is 
 ### **State 1: Reactive Exposure to danger**  
 *Little Dan is directly exposed. Daddy Dan is absent.*
 
+![Logo](img/model1.jpg)
+
 In this state, Little Dan faces the world alone. When the external world feels threatening and there's no support from Daddy Dan, Little Dan may enter a reactive mode—fight, flight, or freeze. Emotions run high, but behavior may become impulsive or defensive.
 
 > **Signal**: emotional flooding, panic, anger  
@@ -67,6 +69,9 @@ In this state, Little Dan faces the world alone. When the external world feels t
 ### **State 2: Protective Interface**  
 *Daddy Dan becomes the boundary. Little Dan is safe inside.*
 
+![Logo](img/model2.jpg)
+
+
 Here, Daddy Dan steps forward and **acts as a protective interface** between Little Dan and the world. He handles threats with logic and calmness, while his love offers reassurance to Little Dan internally. This is the most stable and healthy defensive mode.
 
 > **Signal**: emotional clarity, calm control  
@@ -76,6 +81,9 @@ Here, Daddy Dan steps forward and **acts as a protective interface** between Lit
 
 ### **State 3: Integrated Flow**  
 *Little Dan engages directly with the world.*
+
+![Logo](img/model3.jpg)
+
 
 In safe and supportive environments, **Daddy Dan recedes**. The boundary becomes thin and soft. Little Dan feels safe enough to express, connect, and engage with the world directly and freely. This is a state of openness, creativity, and self-actualization.  In some cases, the boundary can be dissolved that Little Dan feels becoming the world (oneness).
 
