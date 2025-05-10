@@ -267,7 +267,7 @@ I knew something important had shifted.
 
 ---
 
-#### Step 4: Walking from the Ground Up
+#### Walking from the Ground Up
 
 Later that day, I went out for a walk again — same setting, same sun, same city. But this time, I walked **differently**.
 
