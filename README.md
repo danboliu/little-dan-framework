@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.5.2-blue.svg)
+![Version](https://img.shields.io/badge/version-0.5.3-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -164,7 +164,7 @@ Key aspects include:
 
 - **Observation Eye** as a mediator: It breaks the cycle of reactivity.
 - **Root Cause Analysis**: Asking "why" repeatedly to uncover hidden motivations.
-- **Chain of Thoughts**: Linking insights to build internal consistency.
+- **Chain of Thoughts**: Examine your chain of reasoning one by one, see if any of them have false assumptions.
 
 > **Growth Mode**  
 > Reflective Mode transforms disruptive experiences into learning moments, enabling deeper understanding and sustainable personal development.
