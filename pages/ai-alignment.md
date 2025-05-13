@@ -20,3 +20,5 @@ Rather than one monolithic AI trying to serve all, we now have a **fractal struc
 > Coexistence is not about control—it's about **co-creation**.
 
 This open-ended framework doesn't offer a utopia, nor does it eliminate conflict. But it does suggest a plausible architecture where humanity's deepest values—diversity, dignity, and connection—aren't flattened by artificial intelligence, but **amplified** by it.
+
+[Back to Home](../README.md)
