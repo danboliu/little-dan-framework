@@ -1,4 +1,4 @@
-### Exploring Alignment and Coexistence: Integrating AI with Human Value Systems
+# Exploring Alignment and Coexistence: Integrating AI with Human Value Systems
 
 In this section, we explore the journey from human value formation to the integration of AI in a way that aligns with and enhances human coexistence.
 
