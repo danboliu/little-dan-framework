@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.6.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.6.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -744,6 +744,15 @@ A key insight emerged: the more I desperately pursued absolute security, the mor
 #### Conclusion
 
 My journey from the initial shock of job loss to a deeper understanding of the value of chaos underscores a crucial psychological insight: embracing uncertainty can foster greater resilience, creativity, and a more profound sense of inner peace. This experience showed me that stepping beyond the confines of absolute order can lead to a richer, more balanced life.
+
+### 7.8 From a Smooth Road to Surfing the Biggest Waves: Understanding the Dynamics of Emotion and Logic
+
+## Introduction: The Illusion of a Smooth Road
+
+In the beginning, I operated under a model that combined logic and emotion into what I believed was a stable, smooth surface. This model suggested that no matter how low or stable my emotions were, the logical integration would lead to conclusions about my relationship that were consistent and reliable—like driving on a perfectly paved road.
+
+[.. Read more](pages/riding-emotional-waves.md)
+
 
 ## 8. Scope and Limitation
 
