@@ -747,7 +747,7 @@ My journey from the initial shock of job loss to a deeper understanding of the v
 
 ### 7.8 From a Smooth Road to Surfing the Biggest Waves: Understanding the Dynamics of Emotion and Logic
 
-## Introduction: The Illusion of a Smooth Road
+#### Introduction: The Illusion of a Smooth Road
 
 In the beginning, I operated under a model that combined logic and emotion into what I believed was a stable, smooth surface. This model suggested that no matter how low or stable my emotions were, the logical integration would lead to conclusions about my relationship that were consistent and reliable—like driving on a perfectly paved road.
 
