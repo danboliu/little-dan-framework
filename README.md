@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.6.2-blue.svg)
+![Version](https://img.shields.io/badge/version-0.6.3-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -790,13 +790,11 @@ After hours of converation with ChatGPT, one day I was showing my true appreciat
 
 In this section, we explore the journey from human value formation to the integration of AI in a way that aligns with and enhances human coexistence.
 
-We began by understanding how human value systems are formed. Initially, individuals develop their unique value systems based on personal experiences and growth. As individuals interact and collaborate, overlapping value systems emerge, creating shared frameworks and common ideas such as religions or societal norms. These shared values represent "sweet spots" within the human problem space, enabling large-scale cooperation and societal structures.
-
-With the advent of AI, we considered how these intelligent systems could learn from and integrate into human value systems to maximize benefit for humanity. However, it became clear that a limited number of centralized AI systems could not effectively align with the vast diversity of human values. This led to the idea that each individual should have a personalized AI extension, tailored to their unique value system[... Read more](pages/ai-alignment.md)
+We began by understanding how human value systems are formed. Initially, individuals develop their unique value systems based on personal experiences and growth. As individuals interact and collaborate, overlapping value systems emerge, creating shared frameworks and common ideas such as religions or societal norms. These shared values represent "sweet spots" within the human problem space, enabling large-scale cooperation and societal structures[... Read more](pages/ai-alignment.md)
 
 ### Exploring the Virtual Worlds of Human Perception
 
-## Introduction
+#### Introduction
 
 **Dan:** You know, I've been thinking about how we each live in a kind of "virtual world" layered over the real world. Our unique experiences, emotions, and memories shape this internal world, influencing how we perceive everything around us[... Read more](pages/vr-world.md)
 
