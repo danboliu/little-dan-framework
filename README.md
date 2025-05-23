@@ -832,6 +832,13 @@ We began by understanding how human value systems are formed. Initially, individ
 
 **Dan:** You know, I've been thinking about how we each live in a kind of "virtual world" layered over the real world. Our unique experiences, emotions, and memories shape this internal world, influencing how we perceive everything around us[... Read more](pages/vr-world.md)
 
+### Growing An Organisation
+
+#### Introduction
+
+[... Read more](pages/grow-org.md)
+
+
 
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
