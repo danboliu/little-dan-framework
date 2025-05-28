@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.6.5-blue.svg)
+![Version](https://img.shields.io/badge/version-0.6.6-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -787,6 +787,28 @@ And from that place of inner fullness, I found that my relationships became less
 That’s the real wealth. Not the emotional currency I tried to hoard—but the quiet, steady richness of knowing I am enough, even when connection fades, even when the world frowns.
 
 Because sometimes, the deepest connection... is the one you stop chasing.
+
+# Case Study: The Garden Within: Nurturing Self-Growth Without Requiring Bloom from Another
+
+---
+
+## Introduction
+
+This case study explores a personal journey of confronting and reshaping deeply held assumptions about relationships. Initially, there was a strong desire to see a partner as having one unified "true self," and to integrate all their facets into a single, harmonious identity. Over time, it became clear that this expectation was rooted in a false assumption. The real work of integrating an inner self is a personal journey that cannot be imposed on others.
+
+---
+
+## The Initial Assumption
+
+At the outset, the core assumption was that in order to build deep and meaningful connections, one must understand and integrate the "true self" of the other person. This assumption led to a tendency to focus on the "good" side of the partner and dismiss or ignore the "bad" side, believing that the negative aspects were just temporary or could be eliminated with time and effort.
+
+This approach was rooted in a belief that people, fundamentally, should strive for internal harmony and that a "true self" is inherently singular and unified.
+
+## The Realization
+
+Over time, it became evident that this assumption was not only unrealistic but also counterproductive. People are complex, and their internal worlds can hold multiple facets that may never fully integrate. The partner's "good" and "bad" sides were not just temporary states but integral parts of who they were, shaped by past traumas and life experiences. The realization was that the pursuit of inner integration is a personal journey that each individual must undertake for themselves and cannot be forced or projected onto someone else.
+
+[.. Read more](pages/garden-within.md)
 
 ## 8. Scope and Limitation
 
