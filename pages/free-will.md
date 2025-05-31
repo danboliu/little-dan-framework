@@ -46,7 +46,7 @@ This case study illustrates different human decision-making modes from passive, 
 
 ## 5. Instinct-Driven Agent
 
-**Description:** This agent makes decisions based on deep-seated subconscious instincts or intuitions, transcending explicit reasoning or defined goals. Actions emerge from an internal, often inexplicable, intuitive awareness rather than rational analysis.
+**Description:** This agent makes decisions based on deep-seated subconscious instincts or intuitions (Little Dan), transcending explicit reasoning or defined goals. Actions emerge from an internal, often inexplicable, intuitive awareness rather than rational analysis (Daddy Dan).
 
 **Example:** Someone spontaneously chooses an unfamiliar route home without apparent reason, later learning about a major accident on their usual path. This action results from instinct rather than conscious thought or learned experience. Another example would be given all the analysis based on explicit goals that one set,  people choose to jump out of the most reasonable action and yet choose to the opposite action on purpose, based on unexplainable “gut feelings” or simply be curious about what would happen if I choose not based on rationality. 
 
