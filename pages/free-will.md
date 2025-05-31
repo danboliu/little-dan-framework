@@ -20,6 +20,8 @@ This case study illustrates different human decision-making modes from passive, 
 
 **Free Will Aspect:** Limited, as decisions predominantly result from conditioned responses rather than conscious choice or proactive intent.
 
+> Animals often have this level of the agency.
+
 ---
 
 ## 3. Fixed Goal-Driven Agent
