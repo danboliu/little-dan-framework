@@ -60,6 +60,6 @@ These agent models demonstrate a clear evolutionary trajectory in human decision
 
 - **Increasing Complexity of Free Will:** Each stage reflects increasing complexity in how free will manifests, from no autonomy to deep integration of intuition, conscious goal-setting, and dynamic adaptability.
 
-> Every mode has its own Pros and cons and not necessarily means one has to process from low agency to high agency. At any given moment in front of us, one can maybe choose which modes you want to use explicitly or inexplicably, which the choice of choosing modes itself becomes a free will topic. 
+> Every mode has its own Pros and cons and not necessarily means one has to progress from low agency to high agency. At any given moment in front of us, one can maybe choose which modes you want to use explicitly or inexplicably, which the choice of choosing modes itself becomes a free will topic. 
 
 This framework enriches our understanding of human behavior by highlighting the diverse interplay between reflex, learned behavior, goal-oriented decisions, adaptive flexibility, and intuitive insights that shape daily decision-making.
