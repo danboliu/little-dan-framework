@@ -2,6 +2,7 @@
 
 This case study illustrates different human decision-making modes from passive, fixed reactions to dynamic and proactive behaviors, emphasizing how each mode reflects varying degrees of **free will**.
 
+
 ## 1. Reflective Agent
 
 **Description:** The reflective agent operates purely on automatic, involuntary responses. Actions are fundamental reactions without conscious thought or choice, reflecting an absence of free will.
@@ -64,4 +65,4 @@ These agent models demonstrate a clear evolutionary trajectory in human decision
 
 > Every mode has its own Pros and cons and not necessarily means one has to progress from low agency to high agency. At any given moment in front of us, one can maybe choose which modes you want to use explicitly or inexplicably, which the choice of choosing modes itself becomes a free will topic. 
 
-This framework enriches our understanding of human behavior by highlighting the diverse interplay between reflex, learned behavior, goal-oriented decisions, adaptive flexibility, and intuitive insights that shape daily decision-making.
+This framework enriches our understanding of human behavior by highlighting the diverse interplay between reflex, learned behavior, goal-oriented decisions, adaptive flexibility, and intuitive insights that shape daily decision-making. It might also give an intersting framework to start understanding the AI agency and how much of "free will" we would like each AI system to have.
