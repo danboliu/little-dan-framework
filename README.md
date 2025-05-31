@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.6.6-blue.svg)
+![Version](https://img.shields.io/badge/version-0.6.7-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -837,6 +837,18 @@ Our conversation began with a fundamental truth: change, especially disruptive c
 #### The Sweet Spot and the Paradox of Power
 
 From this pain point, we sought the "sweet spot" – the ideal leverage point to introduce change. Initially, this might seem like a top-down mandate, but we quickly pivoted. The true sweet spot, we discovered, wasn't about imposing control, but about ceding it. This led us to the paradoxical idea that promoting decentralization and empowering individuals could, in fact, increase one's influence. The traditional corporate ladder, where power is accumulated and guarded, gives way to a new paradigm: where influence is earned through enablement. By spreading seeds of autonomy, we argued, one cultivates a more fertile ground for collective success, and the original "seed-sower" reaps the benefits of that multiplied effort. [... Read more](pages/grow-org.md)
+
+### Understanding Free Will - Human Decision-Making Through Different Agent Models
+
+The case study examines human decision-making through five distinct agent models, highlighting an evolutionary progression from passive, automatic responses to highly proactive and intuitive behaviors. 
+
+Initially, decisions are purely reflexive with no free will (Reflective Agent), evolving into conditioned, experience-driven avoidance strategies (Survival Agent). 
+
+As decision-making complexity increases, agents begin setting fixed goals with moderate autonomy (Fixed Goal-Driven Agent), then adapt these goals dynamically to changing contexts, demonstrating significant proactive free will (Dynamic Goal-Driven Agent). 
+
+Ultimately, the Instinct-Driven Agent acts based on subconscious intuitions, reflecting complex, nuanced forms of autonomy that integrate rationality and instinct. Collectively, these models illustrate how human choices progress from simple reflexes to sophisticated, intuitive decisions, enhancing our understanding of free will and autonomy.
+
+[... Read more](pages/free-will.md)
 
 
 
