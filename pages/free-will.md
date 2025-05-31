@@ -1,4 +1,4 @@
-# Case Study: Understanding Free Will - Human Decision-Making Through Different Agent Models
+# Understanding Free Will - Human Decision-Making Through Different Agent Models
 
 This case study illustrates different human decision-making modes from passive, fixed reactions to dynamic and proactive behaviors, emphasizing how each mode reflects varying degrees of **free will**.
 
