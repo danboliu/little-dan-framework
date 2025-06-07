@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.6.7-blue.svg)
+![Version](https://img.shields.io/badge/version-0.7.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -850,7 +850,11 @@ Ultimately, the Instinct-Driven Agent acts based on subconscious intuitions, ref
 
 [... Read more](pages/free-will.md)
 
+### Case Study: The Existential Journey of Self-Awareness and Mortality
 
+Join Dan on a profound journey into the unsettling conflict between our innate sense of self-awareness as a fundamental truth and the chilling realization that, in a physically-driven world, this very self might be temporary. What happens when your deepest understanding of your own existence feels violated by the undeniable reality of mortality? This case study explores the agonizing tension between the desire for eternal consciousness and the inevitable dissolution of memory, forcing us to confront the question: If everything we cherish about "self" is destined to fade, what truly matters in the moments we have?
+
+[... Read more](pages/life-death.md)
 
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
