@@ -1,4 +1,5 @@
-# Case Study: an Exploration of Layered World Predictability and Designing a Super-Aligned AI System
+# Case Study: Dan’s Quest for Cosmic Clarity: Unraveling World Predictability and Crafting a Super-Aligned AI Future
+
 This case study is derived from an in-depth conversation between Dan and an AI, delving into the predictability of the world, the layered complexity of systems, the nature of free will, and the critical challenge of aligning artificial intelligence (AI) with human values. Dan’s inquiries span multiple disciplines, including chaos theory, quantum mechanics, fluid dynamics, biology, and AI system design, culminating in a vision for a super-aligned AI system. The conversation is organized into chapters reflecting key themes, with a detailed conclusion on designing a super-aligned AI system. Additional details from the raw conversation are incorporated to provide a comprehensive account of Dan’s ideas and the AI’s responses.
 
 ## Questioning the Predictability of the World – Divergence vs. Convergence
