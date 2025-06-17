@@ -856,7 +856,7 @@ Join Dan on a profound journey into the unsettling conflict between our innate s
 
 [... Read more](pages/life-death.md)
 
-### Dan’s Quest for Cosmic Clarity: Unraveling World Predictability and Crafting a Super-Aligned AI Future
+### Case Study: Dan’s Quest for Cosmic Clarity: Unraveling World Predictability and Crafting a Super-Aligned AI Future
 
 In the case study “Dan’s Odyssey Through Chaos and Consciousness: Designing a Super-Aligned AI for a Complex World,” Dan engages an AI in a profound exploration of the world’s predictability, system complexity, free will, and AI alignment with human values. Through eight chapters, Dan challenges chaos theory’s focus on divergent systems with examples of convergent ones, like liquid mixing, and critiques oversimplified links between quantum randomness and free will, emphasizing the layered nature of systems (quantum, fluid, biological, societal). He envisions AI as a perceptual tool, akin to a microscope, and proposes aligning AI’s problem space with human interests through autonomy and trust, drawing parallels to regulated capitalism. Addressing diverse human values, Dan suggests multiple AIs with varied value systems competing in a controlled environment to balance individual and universal ethics. The study concludes with a framework for a super-aligned AI system that integrates layered understanding, robust reward functions, and dynamic adaptation to ensure ethical, innovative AI that respects human diversity and collective interests.
 
