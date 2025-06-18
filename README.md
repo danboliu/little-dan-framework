@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.7.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.7.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -861,6 +861,12 @@ Join Dan on a profound journey into the unsettling conflict between our innate s
 In the case study “Dan’s Odyssey Through Chaos and Consciousness: Designing a Super-Aligned AI for a Complex World,” Dan engages an AI in a profound exploration of the world’s predictability, system complexity, free will, and AI alignment with human values. Through eight chapters, Dan challenges chaos theory’s focus on divergent systems with examples of convergent ones, like liquid mixing, and critiques oversimplified links between quantum randomness and free will, emphasizing the layered nature of systems (quantum, fluid, biological, societal). He envisions AI as a perceptual tool, akin to a microscope, and proposes aligning AI’s problem space with human interests through autonomy and trust, drawing parallels to regulated capitalism. Addressing diverse human values, Dan suggests multiple AIs with varied value systems competing in a controlled environment to balance individual and universal ethics. The study concludes with a framework for a super-aligned AI system that integrates layered understanding, robust reward functions, and dynamic adaptation to ensure ethical, innovative AI that respects human diversity and collective interests.
 
 [... Read more](pages/layered-reality.md)
+
+### Beyond "Should": A Journey of Openness and Growth
+
+Ever felt trapped by the "shoulds" of life, those unspoken rules that dictate our paths? This isn't just another self-help guide; it's a raw, first-person exploration into what happens when we dare to step outside the lines of expectation. Join me as I stumble upon a surprising paradox: that true growth often lies not in avoiding discomfort, but in actively embracing the unpredictable. From questioning the comfort zone to experimenting with a "loss of control" philosophy and applying it to a brand new career challenge, this is the story of a personal awakening – a sometimes messy, always evolving journey towards a more open and ultimately, more fulfilling way of being. Intrigued? Then come explore the uncharted territory beyond "should."
+
+[... Read more](pages/beyond-should.md)
 
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
