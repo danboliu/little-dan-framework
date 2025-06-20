@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.7.2-blue.svg)
+![Version](https://img.shields.io/badge/version-0.7.3-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -783,6 +783,78 @@ At the outset, the core assumption was that in order to build deep and meaningfu
 This approach was rooted in a belief that people, fundamentally, should strive for internal harmony and that a "true self" is inherently singular and unified.
 
 [.. Read more](pages/garden-within.md)
+
+### 7.11 Case Study: Rewiring the Emotional Reflex in Intense Conflicts  
+
+*How Shifting Attention Inward and Activating “Daddy Dan” Defuses Reactivity*
+
+#### **Context**
+
+Dan frequently encounters emotionally charged conflicts in close relationships, especially in situations where the other person (e.g., his wife) expresses frustration or negativity in a seemingly unreasonable or one-sided way. In such moments, Dan experiences a strong emotional trigger — a surge of defensiveness, a desire to correct or clarify, and often, a deep feeling of being misunderstood or unjustly criticized.
+
+This case study explores one such episode, where Dan's emotional self — **“Little Dan”** — instinctively wanted to fight back or “fix” the interaction. However, through conscious effort, he began applying a new internal protocol.
+
+---
+
+#### **Problem Statement**
+
+Dan's habitual reaction in conflict is:
+
+- Immediate emotional agitation (tight chest, mental urgency)
+- A strong impulse to correct the other person
+- A belief that fairness and truth must be restored *right now*
+- Aftermath: regret, fatigue, and low energy even if he stayed "calm" on the outside
+
+He realized that even when he succeeded in suppressing visible anger, Little Dan’s inner exhaustion and fragility remained unaddressed — often manifesting later as a drop in emotional resilience.
+
+---
+
+#### **New Strategy: Shut the Window, Turn Inward**
+
+Dan proposed an experiment rooted in the Little Dan Framework:
+
+> 🧩 Instead of reacting outward, can he **turn attention inward** and regulate from within?
+
+### 🛠 Method:
+- When emotional tension arises, Dan **closes his eyes briefly**, as a symbolic and physical gesture of **"shutting the window"** to the external world.
+- This helps Little Dan **detach from the external emotional hook** and **redirect attention to his inner state.**
+- He lets “Daddy Dan” step in — not to scold Little Dan, but to hold him gently and guide the next action from a grounded place.
+
+---
+
+#### **Observed Effects**
+
+- **Immediate relief**: A sense of calm starts to replace the feeling of being trapped or needing to act.
+- **Decreased urgency**: The need to “fix” the external problem softens.
+- **Increased clarity**: Space opens up for better discernment: _“Is this my battle right now?”_
+- **Protection of emotional energy**: Little Dan feels seen and cared for internally, instead of pushed aside or forced to “endure silently.”
+
+---
+
+#### **Underlying Principle: Inward First, Then Outward**
+
+This case suggests that:
+
+> “The real battlefield isn’t between you and the other person. It’s between Little Dan’s instinctive panic and Daddy Dan’s calm embrace.”
+
+In other words, emotional survival isn’t about winning arguments — it’s about building **resilience through inner anchoring**.
+
+---
+
+#### **Insight**
+
+> _Trying to correct someone in the heat of a conflict is like trying to build a bridge in the middle of a storm._  
+> _Instead, build shelter first. Then wait. Then build._
+
+---
+
+#### **Conclusion**
+
+This strategy is not about avoidance. It’s about **rescheduling engagement** until the emotional system has stabilized.
+
+By turning inward, Dan began protecting his emotional core while preserving the possibility of a more constructive dialogue later — when both he and the other party could meet with more openness and less volatility.
+
+---
 
 ## 8. Scope and Limitation
 
