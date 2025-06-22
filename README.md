@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.7.3-blue.svg)
+![Version](https://img.shields.io/badge/version-0.7.4-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -815,7 +815,7 @@ Dan proposed an experiment rooted in the Little Dan Framework:
 
 > 🧩 Instead of reacting outward, can he **turn attention inward** and regulate from within?
 
-### 🛠 Method:
+#####  🛠 Method:
 - When emotional tension arises, Dan **closes his eyes briefly**, as a symbolic and physical gesture of **"shutting the window"** to the external world.
 - This helps Little Dan **detach from the external emotional hook** and **redirect attention to his inner state.**
 - He lets “Daddy Dan” step in — not to scold Little Dan, but to hold him gently and guide the next action from a grounded place.
@@ -853,6 +853,14 @@ In other words, emotional survival isn’t about winning arguments — it’s ab
 This strategy is not about avoidance. It’s about **rescheduling engagement** until the emotional system has stabilized.
 
 By turning inward, Dan began protecting his emotional core while preserving the possibility of a more constructive dialogue later — when both he and the other party could meet with more openness and less volatility.
+
+### 7.12 Case Study: Beyond the Surface of Embarrassment: When Good Intentions Collide with Ego’s need
+
+What does it really mean to feel embarrassed—and why can a minor social rejection stir such a deep, almost physical response? This case study begins with a simple moment of discomfort but quickly unpacks a much more profound psychological dynamic: the tension between genuine intention and the ego’s quiet need for recognition. Through an extended dialogue with an AI, the author examines how our social instincts—rooted in evolutionary survival—still govern modern reactions, especially in situations where our self-image feels subtly threatened. Blushing, racing hearts, the urge to defend ourselves—all of it becomes a mirror reflecting not just the moment, but our deeper motivations.
+
+As the story unfolds, the reader is invited to trace a personal journey from raw emotional reaction to layered self-understanding. It reveals how sincere efforts to help others can be unintentionally hijacked by a subconscious desire to preserve authority or competence, and how even well-meaning behavior can spiral when ego takes the wheel. With the help of concepts like “Little Dan” (the emotional self) and practical AI-guided techniques, the author explores how to interrupt this cycle, reconnect with original purpose, and gently retrain the mind toward more grounded, compassionate responses. This is a case study for anyone who’s ever felt their emotions betray their values—and who’s ready to reclaim that alignment.
+
+[... Read](pages/intention-ego.md)
 
 ---
 
