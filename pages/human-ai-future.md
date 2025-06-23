@@ -2,7 +2,7 @@
 
 *How Autonomy and Trust build a bright future with Humanity and AI*
 
-This case study was inspired by the [podcast](https://youtu.be/_H-5fvzsbdY?si=ux8ef4KmVY8kCb_8) by Peter H.D, Mo Gawdat and Steven Kotler, and further explores a thought-provoking discussion between Dan and ChatGPT concerning the future of humanity in an age of increasingly sophisticated artificial intelligence. The conversation delves into the fundamental assumptions that underpin our current societal structures, particularly in light of the potential for a future marked by radical abundance. This analysis unpacks their insights, focusing on how a shift in mindset, prioritizing autonomy and trust, could pave the way for a brighter future where humanity and AI coexist and thrive.
+This case study was inspired by the [podcast](https://youtu.be/_H-5fvzsbdY?si=ux8ef4KmVY8kCb_8) by Peter H.D, Mo Gawdat and Steven Kotler, and further explores a thought-provoking discussion between Dan and ChatGPT (raw converasation is [here](/pages/human-ai-future-log.md)) concerning the future of humanity in an age of increasingly sophisticated artificial intelligence. The conversation delves into the fundamental assumptions that underpin our current societal structures, particularly in light of the potential for a future marked by radical abundance. This analysis unpacks their insights, focusing on how a shift in mindset, prioritizing autonomy and trust, could pave the way for a brighter future where humanity and AI coexist and thrive.
 
 ## The Lingering Shadow of Scarcity
 
