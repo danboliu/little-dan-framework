@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.7.4-blue.svg)
+![Version](https://img.shields.io/badge/version-0.8.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -947,6 +947,13 @@ In the case study “Dan’s Odyssey Through Chaos and Consciousness: Designing 
 Ever felt trapped by the "shoulds" of life, those unspoken rules that dictate our paths? This isn't just another self-help guide; it's a raw, first-person exploration into what happens when we dare to step outside the lines of expectation. Join me as I stumble upon a surprising paradox: that true growth often lies not in avoiding discomfort, but in actively embracing the unpredictable. From questioning the comfort zone to experimenting with a "loss of control" philosophy and applying it to a brand new career challenge, this is the story of a personal awakening – a sometimes messy, always evolving journey towards a more open and ultimately, more fulfilling way of being. Intrigued? Then come explore the uncharted territory beyond "should."
 
 [... Read more](pages/beyond-should.md)
+
+### A Blueprint in a Radical Abundance Future
+
+Picture a future where scarcity’s a thing of the past, and humans and AI team up to create endless possibilities! No more chasing survival—just pure freedom to follow your passions, built on trust and connection. Ready to dive into this exciting vision? It all comes down to autonomy and trust. Let’s explore!
+
+[... Read more](pages/human-ai-future.md)
+
 
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
