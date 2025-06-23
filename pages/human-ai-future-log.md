@@ -1,4 +1,4 @@
-# Raw log of A Blueprint in a Radical Abundance Future
+# Raw converaation log of "A Blueprint in a Radical Abundance Future"
 
 Dan: Today I wanted to talk to you about a podcast I recently listened to. It was a podcast with Mo and Steven Kotler about the future of humanity with AI.
 
