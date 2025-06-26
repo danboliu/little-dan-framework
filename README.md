@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.8.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.8.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -861,6 +861,12 @@ What does it really mean to feel embarrassed—and why can a minor social reject
 As the story unfolds, the reader is invited to trace a personal journey from raw emotional reaction to layered self-understanding. It reveals how sincere efforts to help others can be unintentionally hijacked by a subconscious desire to preserve authority or competence, and how even well-meaning behavior can spiral when ego takes the wheel. With the help of concepts like “Little Dan” (the emotional self) and practical AI-guided techniques, the author explores how to interrupt this cycle, reconnect with original purpose, and gently retrain the mind toward more grounded, compassionate responses. This is a case study for anyone who’s ever felt their emotions betray their values—and who’s ready to reclaim that alignment.
 
 [... Read](pages/intention-ego.md)
+
+### 7.13 Case Study: From Proving Myself to Building Connection
+
+In fast-paced, intellectually demanding environments, I found myself caught in a recurring pattern: either staying silent out of fear of being wrong, or speaking up too forcefully in an attempt to prove my intelligence. Though these behaviors appeared opposite, they were both rooted in the same belief—that my value depended on how others perceived my performance. This case study explores the breakdown of that self-focused logic, the consequences it created, and the emergence of a new, connection-oriented model of communication—one that redefines success not as being right, but as building meaningful collaboration.
+
+[... Read](pages/connection-oriented.md)
 
 ---
 
