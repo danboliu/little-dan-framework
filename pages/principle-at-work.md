@@ -2,6 +2,8 @@
 
 *Analysis of habitual workplace reactions and the development using guiding principles*
 
+Raw conversation can be found [here](/pages/principle-at-work-log.md)
+
 ## Presenting Problem: 
 
 Dan expresses concern about his attitude towards colleagues at work, identifying two recurring scenarios that trigger negative psychological states and behaviors:
