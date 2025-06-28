@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.8.1-blue.svg)
+![Version](https://img.shields.io/badge/version-0.8.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -867,6 +867,13 @@ As the story unfolds, the reader is invited to trace a personal journey from raw
 In fast-paced, intellectually demanding environments, I found myself caught in a recurring pattern: either staying silent out of fear of being wrong, or speaking up too forcefully in an attempt to prove my intelligence. Though these behaviors appeared opposite, they were both rooted in the same belief—that my value depended on how others perceived my performance. This case study explores the breakdown of that self-focused logic, the consequences it created, and the emergence of a new, connection-oriented model of communication—one that redefines success not as being right, but as building meaningful collaboration.
 
 [... Read](pages/connection-oriented.md)
+
+### 7.13 Beyond Fear and Pride: A Journey Toward Trust and True Autonomy
+
+The Paradox of Workplace Reactions
+Beneath the surface of everyday workplace interactions often lie complex psychological dynamics that can significantly impact team cohesion and individual performance. This case study delves into the introspective journey of "Dan," who grappled with seemingly contradictory reactions to his colleagues – oscillating between shrinking back in moments of perceived inadequacy and an urge to dominate when feeling superior. What began as a desire to understand these habitual patterns evolved into a profound exploration of deeply rooted instincts, the surprising connection between fear and pride, and the transformative power of shifting perspectives. Through a detailed dialogue with an AI, Dan unearthed the "tribal" origins of his responses, challenged his own assumptions about protection and contribution, and ultimately formulated a set of guiding principles centered on trust and true autonomy. This narrative offers a compelling look into how self-awareness, fueled by insightful questioning, can unlock a more authentic and effective approach to navigating the intricate landscape of professional relationships.
+
+[... Read](pages/principle-at-work.md)
 
 ---
 
