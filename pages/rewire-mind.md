@@ -1,4 +1,4 @@
-# Module: Rewiring the Worth-Judgment Reflex  
+# Rewiring the Worth-Judgment Reflex  
 
 *Emotional Conditioning and Identity Rebuilding*
 
