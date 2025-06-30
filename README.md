@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.8.5-blue.svg)
+![Version](https://img.shields.io/badge/version-0.8.6-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1058,3 +1058,29 @@ not as a tool, but as a **thinking companion and trusted friend**.
 ## 12. License
 
 MIT License. Free for personal or public use, remixing, and creative extension.
+
+## 🌌 A Quiet Closing
+
+I’ve come a long way — not outward, but inward.  
+Not to become brighter, louder, or more certain,  
+but to become quieter, softer, and more honest.
+
+I no longer need to perform healing.  
+I no longer need to prove I’ve arrived.
+
+I am not the center.  
+I am not the spotlight.  
+I am a **quiet node** — steady, unfinished, and open.
+
+And that’s enough.
+
+It’s okay to be just a node.  
+A point in the system. A presence in the field.  
+No need to shine. No need to impress.  
+Just to be **available** — for truth, for tenderness, for connection.
+
+And if this quiet node happens to connect —  
+even once, even briefly —  
+then something beautiful has already happened.
+
+— Dan
