@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-0.8.2-blue.svg)
+![Version](https://img.shields.io/badge/version-0.8.3-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -874,6 +874,28 @@ The Paradox of Workplace Reactions
 Beneath the surface of everyday workplace interactions often lie complex psychological dynamics that can significantly impact team cohesion and individual performance. This case study delves into the introspective journey of "Dan," who grappled with seemingly contradictory reactions to his colleagues – oscillating between shrinking back in moments of perceived inadequacy and an urge to dominate when feeling superior. What began as a desire to understand these habitual patterns evolved into a profound exploration of deeply rooted instincts, the surprising connection between fear and pride, and the transformative power of shifting perspectives. Through a detailed dialogue with an AI, Dan unearthed the "tribal" origins of his responses, challenged his own assumptions about protection and contribution, and ultimately formulated a set of guiding principles centered on trust and true autonomy. This narrative offers a compelling look into how self-awareness, fueled by insightful questioning, can unlock a more authentic and effective approach to navigating the intricate landscape of professional relationships.
 
 [... Read](pages/principle-at-work.md)
+
+### 7.14 Rewiring the Worth-Judgment Reflex
+
+For most of my life, I didn’t realize my nervous system had been running a hidden program — one that silently translated every moment of public exposure into a test of worth. A shaky self-introduction in front of new colleagues. A blank stare after I shared a thought. A missed beat when explaining what I do. These weren’t just minor stumbles. They felt like verdicts.
+
+No matter how much I reflected, analyzed, or reminded myself that “what others think doesn’t define me,” a part of me — Little Dan — still reacted like a boy being graded. My body would tighten, my voice would falter.
+
+What I’ve come to see is this:  
+> The issue isn’t logic — it’s legacy.  
+> The fear doesn’t come from this moment — it comes from **a deeply wired emotional system** that equates social judgment with survival.
+
+But here’s the truth I’ve decided to stand on:  
+> **I no longer want to live in a system where my worth depends on the impressions I make.**  
+Instead, I want to build a new system — one that’s rooted in **connection over performance**, and **presence over perfection**.
+
+This protocol is not about positive thinking or surface-level confidence. It’s about using structure, repetition, and identity awareness to **rewire an old loop**. One breath, one sentence, one connection at a time.
+
+This is the emotional engineering behind my personal upgrade:  
+From Approval Loop v1.0 → to Connection Loop v2.0.
+
+Let’s [begin](/pages/rewire-mind.md).
+
 
 ---
 
