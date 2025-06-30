@@ -235,7 +235,7 @@ In this chapter, we introduce a practical approach to applying the Little Dan Fr
 By embracing this iterative cycle, you can continuously refine your thought processes and achieve deeper self-awareness.
 
 
-## 7. Case Study
+## 7. Journey
 
 ### 7.1 Feeling being watched - Healing My Invisible Wound
 
