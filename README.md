@@ -900,7 +900,7 @@ Let’s [begin](/pages/rewire-mind.md).
 
 For much of my life, I carried an invisible contract: perform well, or lose value. Whether in meetings, relationships, or even casual introductions, I felt my worth was always on trial. But recently, I stumbled upon a quiet, radical shift — what if I’m not here to perform, but to connect? What if I’m not the main character in a spotlight, but simply a node in a living system? This idea didn’t just reframe my role — it began to dissolve the very pressure that kept me small. What follows is the foundation of that shift: The Node Identity Principle. A new lens through which Little Dan can breathe, relate, and belong — without needing to prove a thing.
 
-[Read](/pages/i-am-node.md).
+[Read...](/pages/i-am-node.md)
 
 ---
 
