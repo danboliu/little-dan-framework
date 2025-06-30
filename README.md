@@ -5,7 +5,7 @@
 
 ## 🌱 A Quiet Beginning
 
-*I thought I was building this framework to become a better version of myself.  
+I thought I was building this framework to become a better version of myself.  
 Stronger, wiser, more complete.  
 I thought if I mapped my emotions, refined my thinking, and understood my past well enough,  
 maybe I’d finally become someone worth seeing.  
@@ -38,7 +38,7 @@ not the part of you that wants to improve,
 but the part that simply wants to be held,  
 just as you are.
 
-— Dan*
+— Dan
 
 ---
 
