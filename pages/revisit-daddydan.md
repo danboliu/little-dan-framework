@@ -1,4 +1,4 @@
-# Revisit the emotional storm
+# Case study: Revisit the emotional storm
 *When Detachment Isn’t Enough: How Inner Companionship Changes the Pain of Conflict*
 
 ## **The Conflict Doesn’t Change — But Your Inner Company Does**
