@@ -939,6 +939,13 @@ For much of my life, I carried an invisible contract: perform well, or lose valu
 
 [Read...](/pages/i-am-node.md)
 
+### 7.16 Revisit the emotional storm
+
+We’ve all been there — in the middle of a conflict where we know that speaking up will only make things worse. We bite our tongue, hold back our frustration, and tell ourselves we’re being “the bigger person.” But afterward, why do we still feel so hollow and exhausted, as if we lost something important by staying quiet?
+This article explores that hidden emotional landscape. It shows how staying calm on the outside can feel completely different depending on whether your inner emotional self faces the storm alone or with the steady support of your wiser, protective side. Through two real-world inner experiences, we’ll see why emotional detachment isn’t enough — and how true resilience comes from being your own companion in the storm.
+
+[Read...](/pages/revisit-daddydan.md)
+
 ---
 
 ## 8. Scope and Limitation
