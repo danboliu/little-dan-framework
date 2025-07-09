@@ -1064,7 +1064,10 @@ It is about **becoming whole, little by little, moment by moment.**
 
 That’s enough.
 
-### 7.18 # The Toilet Awakening: A Case Study on Accidental Enlightenment in Low-Altitude Environments
+--
+
+### 7.18 The Toilet Awakening: A Case Study on Accidental Enlightenment in Low-Altitude Environments
+*[conversation log](/pages/toilet-awaken-log.md)*
 
 #### Abstract
 
