@@ -2,10 +2,15 @@
 *That leads to “toilet awakening”*
 
 Date: 09/07/2025
+
 Time: 21:30
+
 Location: toilet 
+
 What happened yesterday: felt truely integration between Little Dan and Daddy Dan for the first time
+
 What happened today: usual family conflict
+
 
 Dan: Do you feel that having a npd partner and getting suffered, is that because down the bottom, there is part that matching or compensation NPD’s lego? I do feel falling into trap before time and time again. But today after yesterday’s integration, I found her trick doesn’t work anymore to me. I can’t feel angry anymore. Why?
 
