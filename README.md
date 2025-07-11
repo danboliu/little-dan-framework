@@ -1160,6 +1160,11 @@ Just a human being, letting go—of expectations, ego, and… well, everything e
 
 Sometimes, the universe knocks at the door of your soul... while you’re already on the other side of the bathroom door.
 
+### 7.19 The day I stopped fixing after the toilet awakening
+
+I used to believe that when something is wrong, the only way forward is to fix it—by correcting people, restoring order, and removing what feels broken. But one day, in a very ordinary family conflict, I realized something completely different: sometimes, when you stop trying to fix the problem and simply stay present with the pain, things quietly get better on their own. This is a story of that moment, and the unexpected peace that came from not fixing.
+
+[read...](/pages/stop-fixing.md)
 ---
 
 ## 8. Scope and Limitation
