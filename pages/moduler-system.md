@@ -54,13 +54,13 @@ This simple reframing changed everything.
 
 Once we stop treating emotional flare-ups as personal failures, and start seeing them as **internal process handoffs**, we can engage with ourselves more effectively:
 
-- *The Observation Eye* noticed “inner burning”was *Alert module* at work, sending signals to attention
-- *Little Dan* wants to fight back for survival 
-- *Observation Eye* bring *Daddy Dan* online for protection
-- *Daddy Dan* told Little Dan not to worry, let me handle the situation (hence no further escalation needed from Little Dan shouting back)
-- *Daddy Dan* just respond in firm tone with the fact
-- *Daddy Dan* thanks *Alert module* to bring attention to everyone, and now the problem is deescalated
-- *Observation Eye* bring calming method such as deep breathing for a few times to calm *Alert module* and *Little Dan*
+- **The Observation Eye** noticed “inner burning”was **Alert module** at work, sending signals to attention
+- **Little Dan** wants to fight back for survival 
+- **Observation Eye** bring *Daddy Dan* online for protection
+- **Daddy Dan** told Little Dan not to worry, let me handle the situation (hence no further escalation needed from Little Dan shouting back)
+- **Daddy Dan** just respond in firm tone with the fact
+- **Daddy Dan** thanks **Alert module** to bring attention to everyone, and now the problem is deescalated
+- **Observation Eye** bring calming method such as deep breathing for a few times to calm **Alert module** and **Little Dan**
 - And the system can calm itself — not by suppression, but through **cooperation**.
 
 > key insights: before today, I was confused when alert module was online, I treated it as the whole self which was meant to be wise and awakened, forgetting the "self" is an illusion, what really happened was a mutiple modules system gain attention at any given moment. When alert module is online when threaten was detected, of course it does a wonderful job just to alert. But because it was running as main process, we often think it was the "self" which supposed to be wise, loving, awakening. Of course the "alert module" can't be loving and wise, otherwise it failed as its purpose. As soon as we recognize it's just a good part of the system did the job wonderfully, we have the capacity to then to being other suitable part into attention and cooperate together to solve the issue.
