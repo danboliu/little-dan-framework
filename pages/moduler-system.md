@@ -1,4 +1,4 @@
-# Practical usage of recognising the illusion of the "self"
+# The Illusion of Self: Why Your Alert System Isn’t You
 
 ## A Familiar Scene
 
