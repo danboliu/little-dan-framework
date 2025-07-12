@@ -1,4 +1,4 @@
-# When the Alert System Takes main – Why Modular Thinking Helps More Than “Being Awakened”
+# Practical usage of recognising the illusion of the "self"
 
 ## A Familiar Scene
 
