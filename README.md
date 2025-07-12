@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1165,6 +1165,13 @@ Sometimes, the universe knocks at the door of your soul... while you’re alread
 I used to believe that when something is wrong, the only way forward is to fix it—by correcting people, restoring order, and removing what feels broken. But one day, in a very ordinary family conflict, I realized something completely different: sometimes, when you stop trying to fix the problem and simply stay present with the pain, things quietly get better on their own. This is a story of that moment, and the unexpected peace that came from not fixing.
 
 [read...](/pages/stop-fixing.md)
+
+### 7.20 The Illusion of Self: Why Your Alert System Isn’t You
+
+We often talk about being “true to ourselves,” as if there’s a single, stable identity behind everything we think and feel. But what if that’s an illusion? Modern neuroscience and lived experience alike suggest that what we call “I” is actually a shifting collection of internal modules — each with its own role, voice, and agenda. In this chapter, we explore how a seemingly calm day can suddenly be hijacked by the Alert System, and why recognizing this modular structure of the mind offers far more clarity and emotional freedom than clinging to the myth of a singular self.
+
+[read...](/pages/moduler-system.md)
+
 ---
 
 ## 8. Scope and Limitation
