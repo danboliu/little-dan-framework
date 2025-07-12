@@ -1,4 +1,4 @@
-# *When the Alert System Takes main – Why Modular Thinking Helps More Than “Being Awakened”*
+# When the Alert System Takes main – Why Modular Thinking Helps More Than “Being Awakened”
 
 ## A Familiar Scene
 
