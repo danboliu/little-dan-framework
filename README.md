@@ -1239,22 +1239,10 @@ Just this moment, unfolding exactly as it is.
 
 ---
 
-#### 💬 Closing Note
+#### 💬 Closing Note (well, almost until…)
 
-Smiling may return. Laughter will come.  
-But it will no longer be required for belonging.  
-That alone changes everything.
+As I was about to wrap up this profound experience with wisdom words, something unexpected happened…
 
-But life is much more complicated than that. See what happened next moment below.
-
-### Case Study (continued): When Freedom Tastes Like Revenge
-
-**Date:** 2025-07-14  
-**Location:** Same car ride, after inner stillness was noticed  
-**Module:** Daddy Dan + Observing Eye  
-**Tagline:** The ego’s last trick: turning peace into performance.
-
----
 
 #### ⚡️ The Shift
 
