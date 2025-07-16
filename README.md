@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1321,6 +1321,12 @@ And so, the spiral of growth deepens — not in perfection, but in **honest noti
 
 > “Freedom is not when she can’t control me.  
 > Freedom is when I no longer need to prove she can’t.”
+
+### 7.22 True agency
+
+In moments of emotional injustice — when we feel humiliated, blamed, or forced into submission — a surge of instinct rises within us: fight back, prove your worth, don’t let this stand. It feels like reclaiming dignity. But what if this immediate urge to react is not true freedom, but a rehearsed script handed down by culture, ego, and fear? This section explores a paradox at the heart of emotional resilience: that the refusal to act on impulse may look like weakness to the outside world, yet in truth, it can be the most powerful assertion of inner autonomy. Through the lens of Little Dan’s internal conflict and the strange restraint shown by spiritual figures like Jesus and Buddha, we examine what it really means to stay awake — and free — in the fire.
+
+[Read...](/pages/true-agency.md)
 
 ---
 
