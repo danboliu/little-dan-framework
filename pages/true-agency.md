@@ -3,6 +3,8 @@
 > “The impulse to strike back isn’t always strength —  
 > sometimes, it’s just another form of surrender.” — *Little Dan’s Awakening*
 
+[raw conversation](/pages/true-agency-log.md)
+
 ---
 
 ## 🔥 A Familiar Scene
