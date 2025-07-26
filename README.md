@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.0.4-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1350,6 +1350,12 @@ In an age where self-awareness is the new literacy, human flourishing increasing
 
 [Read...](/pages/beyond-self.md)
 
+### 7.24 Reduce suffering
+
+In high-conflict situations, our instinct often pushes us to defend, argue, or fight for validation—believing that victory will restore our dignity. Yet true strength lies not in dominating the moment, but in stepping back to see the shared suffering driving the conflict. By recognizing both our own pain and the other person’s pain, we can act with clarity and compassion, choosing responses that reduce the total suffering rather than intensifying it. This case study explores how shifting focus from ego-driven reactions to mindful awareness can transform even the most challenging moments.
+
+[Read...](/pages/reduce-suffering.md)
+
 ---
 
 ## 8. Scope and Limitation
@@ -1357,7 +1363,6 @@ In an age where self-awareness is the new literacy, human flourishing increasing
 This framework is designed primarily for adults who already have a relatively formed self-concept—referred to as “Daddy Dan”—and are now seeking to reconcile or re-integrate emotional vulnerabilities. It may not be as effective for younger individuals still in the early stages of identity formation or for individuals in acute psychological distress requiring clinical intervention.
 
 Its greatest strength lies in personal resonance. However, its highly individual nature may limit its generalizability without personal adaptation. It is not a clinical tool, nor a substitute for therapy, but rather a model of internal reflection and experiential clarity.
-
 
 
 ## 9. Dreaming
