@@ -1470,6 +1470,9 @@ What struck me most was the joy that surged through me as I “watched” from t
 
 Perhaps this is a form of mindfulness born out of imagination — not merely observing the present moment, but playing with it, framing it, and letting it become something beautiful and alive. This “director’s lens” gave me a sense of freedom I’ve never felt before, as if life is not just happening to me, but with me.
 
+Bernardo Kastrup’s idea of *“letting go of ego and free will, and letting the universe unfold through you”* resonates deeply with my recent insights. I realized that the most profound moments of clarity and joy arise not when I forcefully try to control life, but when I allow life to express itself through me. Ego, with its constant narrative of “my plans, my wins, my failures,” acts like a narrow lens that distorts reality by exaggerating my centrality. Letting go of this lens feels like stepping into a larger field of intelligence that was always there — one that doesn’t need my tight grip to function.
+
+On the road to the snowy mountains, I sensed that my joy wasn’t “created by me” but was simply passing through me, like wind flowing through open hands. The universe doesn’t demand I orchestrate every detail; instead, it invites me to participate with curiosity and openness. This shift, subtle yet radical, feels like aligning with a current that knows where it’s going, while I simply become its witness and co-creator. It’s as if life itself becomes more vivid when I stop trying to own it.
 
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
