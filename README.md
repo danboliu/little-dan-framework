@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.0.6-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.7blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1465,6 +1465,10 @@ Picture a future where scarcity’s a thing of the past, and humans and AI team 
 Today, while driving with my family toward the snowy mountains, I experienced something extraordinary. I realized that the world, as I perceive it, is merely a presentation constructed from my inner lens — a first-person perspective that I habitually mistake for the whole of reality. So, I experimented with gently stepping outside of this lens. I imagined seeing us not just from behind the steering wheel, but from the car’s exterior — as if watching our family speeding joyfully along the road. I visualized the bird’s-eye view, the spinning wheels from below, even the perspective of a tall tree silently observing our journey.  
 
 In that moment, a wave of unprecedented joy washed over me. It was as though my identity had expanded beyond my body, dissolving into a living panorama where I was no longer a single character, but part of a grand, flowing scene. This shift of perspective removed the weight of “me” and replaced it with a sense of boundless connection — to my family, the road, the sky, and even the stillness of the trees. What happened was simple yet profound: by loosening the grip on my fixed self-view, I rediscovered the joy of just being part of the world, fully present and alive.
+
+What struck me most was the joy that surged through me as I “watched” from these angles. This wasn’t the stillness of traditional meditation or the structured flow of yoga — it was something more vivid, dynamic, and creative. It felt as if I had turned my day into a living artwork, a film where I was both the protagonist and the director, yet also the silent audience savoring every frame. The more I allowed these perspectives to expand, the lighter and more connected I felt — not just to my family in the car, but to the entire landscape, to the sky above and the earth beneath the wheels. 
+
+Perhaps this is a form of mindfulness born out of imagination — not merely observing the present moment, but playing with it, framing it, and letting it become something beautiful and alive. This “director’s lens” gave me a sense of freedom I’ve never felt before, as if life is not just happening to me, but with me.
 
 
 >This space remains open, unfinished, alive.  
