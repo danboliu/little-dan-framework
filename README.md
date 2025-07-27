@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.6-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1355,6 +1355,12 @@ In an age where self-awareness is the new literacy, human flourishing increasing
 In high-conflict situations, our instinct often pushes us to defend, argue, or fight for validation—believing that victory will restore our dignity. Yet true strength lies not in dominating the moment, but in stepping back to see the shared suffering driving the conflict. By recognizing both our own pain and the other person’s pain, we can act with clarity and compassion, choosing responses that reduce the total suffering rather than intensifying it. This case study explores how shifting focus from ego-driven reactions to mindful awareness can transform even the most challenging moments.
 
 [Read...](/pages/reduce-suffering.md)
+
+### 7.25 Beyond the label
+
+In relationships, we often trap ourselves by reducing the other person to a single, distorted label — “the enemy,” “the controller,” or “the victimizer.” This narrow lens not only blinds us to their humanity but also locks us into rigid patterns of reaction: fight, flee, or surrender. Yet, when we shift our perspective — as I did recently by applying the Buddha’s lens of compassion — we begin to see the person in their full, dynamic complexity. This simple act of seeing beyond labels does not weaken us; it gives us a new kind of power — the ability to rewrite the narrative, transform tension into understanding, and co-create a more authentic connection.
+
+[Read...](/pages/beyond-label.md)
 
 ---
 
