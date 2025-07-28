@@ -1362,6 +1362,14 @@ In relationships, we often trap ourselves by reducing the other person to a sing
 
 [Read...](/pages/beyond-label.md)
 
+### 7.26 My first principal
+
+This conversation explores how unwavering inner faith, as exemplified by Buddha and Jesus Christ, can exist independently of external validation, and how such faith interacts with the impermanent and unpredictable nature of the world. It delves into the contrast between Buddha’s emphasis on observation and acceptance of impermanence, versus Jesus’ use of love and gentle action to inspire change, while acknowledging that both approaches stem from an unshakable inner conviction. The dialogue also extends into the principles of autonomy and trust, questioning whether true faith should be unconditional and open to diverse paths, or if it inherently carries directional values. Through this reflection, it highlights a broader perspective on aligning with the universe’s natural unfolding—recognizing both the power of individual agency and the humility required to embrace the unpredictable flow of life.
+
+[Read English version...](/pages/my-believe-system.md)
+
+[Read Chinese version...](/pages/my-believe-system.cn.md)
+
 ---
 
 ## 8. Scope and Limitation
