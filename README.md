@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1484,6 +1484,12 @@ On the road to the snowy mountains, I sensed that my joy wasn’t “created by 
 
 >This space remains open, unfinished, alive.  
 You're invited to keep dreaming with us.
+
+### Exploring the Nature of Mental Models and Truth
+
+This case study explores the tension between stability and adaptability in human belief systems, using Jordan Peterson’s pragmatic defense of traditional religious models as a focal point. It examines how internal mental models—though inherently imperfect—can offer psychological structure and social cohesion, while also carrying the risk of rigidity and resistance to change. Through a comparative lens that includes perspectives from thinkers like Sam Harris, the study questions whether the long-term pursuit of truth and flexibility might offer a more resilient foundation than comfort rooted in fixed ideologies.
+
+[... Read more](pages/internal-models.md)
 
 ## 10. Contributions
 
