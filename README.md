@@ -251,16 +251,17 @@ Dan's journey towards integration involved acknowledging Little Dan's voice and 
 ### The Outcome
 By integrating these aspects of himself, Dan moves towards a more balanced and authentic self. This integration reduces inner conflicts and creates a sense of inner peace, enabling Dan to navigate his relationships and his life with greater harmony and fulfilment.
 
-### 🧠 Consciousness-First Engine
+---
 
-#### Overview
+## 🧠 Consciousness-First Engine
+
+### Overview
 The Consciousness-First Engine represents a fundamental shift in how growth is measured and experienced. Rather than relying on behavioral outcomes or external validation, this engine prioritizes inner awareness as the leading signal for transformation. Even if external behavior remains imperfect, the fact that consciousness has "moved ahead" is treated as meaningful progress.
 
 This module powers the system with a sense of sustainable momentum, grounded not in performance but in *felt alignment* with an internal path. The more frequently this engine activates, the more frictionless and self-reinforcing the growth process becomes.
 
----
 
-#### Core Principles
+### Core Principles
 
 - **Awareness Precedes Behavior**  
   Insight often arrives before the body is ready to act on it. We no longer view this delay as failure, but as natural latency in embodied integration.
@@ -274,9 +275,7 @@ This module powers the system with a sense of sustainable momentum, grounded not
 - **Freedom From Self-Judgment**  
   By removing the exam-like pressure on every situation, energy once used to defend or perform is now available for curiosity, creativity, and connection.
 
----
-
-#### Activation Triggers
+### Activation Triggers
 
 This module activates when:
 - A past pattern is noticed in real-time, without immediately falling into it.
@@ -284,9 +283,8 @@ This module activates when:
 - One stops mid-spiral and chooses to *watch* rather than *react*.
 - The voice that used to say “You failed again” is replaced by “You saw it this time — good.”
 
----
 
-#### Functional Impact on the System
+### Functional Impact on the System
 
 | Component        | Effect of Activation                                   |
 |------------------|--------------------------------------------------------|
@@ -295,9 +293,7 @@ This module activates when:
 | `Observation Eye`  | Strengthened as primary guide rather than backup tool  |
 | `Emotional Energy` | Transitions from tension to subtle vitality         |
 
----
-
-#### Reflections from Dan
+### Reflections from Dan
 > *“I used to treat every situation like a performance review. Now, if I just notice the shift in how I feel or how I see, I already know I’m growing. It’s not about being flawless — it’s about feeling the quiet confidence of walking the right path, even if I stumble. That’s enough. That’s real.”*
 
 ## 7. Journey
