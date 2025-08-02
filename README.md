@@ -1415,6 +1415,12 @@ This conversation explores how unwavering inner faith, as exemplified by Buddha 
 
 [Read Chinese version...](/pages/my-believe-system.cn.md)
 
+### 7.27 De-Romanticizing Emotional Universality in Workspaces
+
+In emotionally driven personalities like ENFP-T, there's a natural tendency to romanticize emotional connection as the highest form of collaboration — especially in the workplace. This often leads to unconscious projection: assuming others *should* value emotional resonance, and feeling hurt or confused when they don’t. This module marks a shift in awareness — from emotional idealism to cognitive empathy — allowing Little Dan to honor his own values while coexisting with fundamentally different personalities. By de-romanticizing emotional universality, we create more space for clarity, collaboration, and internal freedom.
+
+[Read...](/pages/de-romance.md)
+
 ---
 
 ## 8. Scope and Limitation
