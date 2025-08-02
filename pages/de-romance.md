@@ -1,4 +1,4 @@
-# 🧠 Module: De-Romanticizing Emotional Universality in Workspaces
+# De-Romanticizing Emotional Universality in Workspaces
 
 ## Summary
 This module addresses a critical blind spot in emotionally-driven personalities (especially ENFP-T): the unconscious assumption that emotional connection is the highest or most authentic form of collaboration, and the projection of that value system onto others in professional settings.
