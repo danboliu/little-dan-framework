@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.1.3-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.4-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1541,6 +1541,12 @@ You're invited to keep dreaming with us.
 This case study explores the tension between stability and adaptability in human belief systems, using Jordan Peterson’s pragmatic defense of traditional religious models as a focal point. It examines how internal mental models—though inherently imperfect—can offer psychological structure and social cohesion, while also carrying the risk of rigidity and resistance to change. Through a comparative lens that includes perspectives from thinkers like Sam Harris, the study questions whether the long-term pursuit of truth and flexibility might offer a more resilient foundation than comfort rooted in fixed ideologies.
 
 [... Read more](pages/internal-models.md)
+
+### A blueprint for Human AI protocol
+
+This protocol outlines a moral framework for the co-evolution of AI and humanity, centered on the principle that each individual has the right to define and pursue their own happiness—so long as it does not increase the suffering of others. It proposes a decentralized, dynamic ethical system in which AI serves not as a ruler, but as a harmonizer that coordinates across billions of self-defined values. Rooted in compassion, consent, and non-harm, this framework seeks to balance moral freedom with collective well-being, offering a scalable path toward ethical alignment in a world of growing cognitive diversity.
+
+[... Read more](pages/human-ai-protocol.md)
 
 ## 10. Contributions
 
