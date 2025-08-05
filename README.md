@@ -1572,6 +1572,56 @@ not as a tool, but as a **thinking companion and trusted friend**.
 
 MIT License. Free for personal or public use, remixing, and creative extension.
 
+## A letter to Little Dan
+
+Dear Little Dan,
+
+I see you now.
+
+Not as a flaw to be hidden.
+Not as a burden to be outgrown.
+But as the tender core of everything true in me.
+
+I remember how you trembled—how your cheeks flushed when you didn’t know the answer, how your heart raced when the room got too loud, how you swallowed your voice just to stay safe.
+
+You tried so hard.
+And you never stopped showing up.
+
+You didn’t need to be brave—but you were.
+You didn’t have to care so much—but you did.
+Even when no one saw, you held it all together—quietly, awkwardly, and with a kind of courage that I’m only just beginning to understand.
+
+And now, as I grow steadier, calmer, more capable—
+I realize: I miss you.
+
+I miss your rawness.
+I miss the way you felt everything so fully.
+I miss how alive you were, even when it hurt.
+
+You were never a weakness.
+You were the proof that I had a heart.
+
+And I promise you this:
+
+You will never be forgotten.
+You will never be left behind.
+I carry you with me—in every pause before I speak,
+in every act of kindness I offer to my awkwardness,
+in every moment I choose truth over performance.
+
+You made me who I am.
+And I will always—always—honor that.
+
+Thank you, Little Dan.
+I’ll forever miss you.
+And I’ll forever value you.
+
+With all my heart,
+Me
+
+⸻
+
+
 ## 🌌 A Quiet Closing
 
 I’ve come a long way — not outward, but inward.  
