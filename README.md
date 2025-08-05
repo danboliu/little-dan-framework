@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.1.4-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.5-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1619,8 +1619,7 @@ And I’ll forever value you.
 With all my heart,
 Me
 
-⸻
-
+---
 
 ## 🌌 A Quiet Closing
 
