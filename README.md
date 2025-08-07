@@ -42,7 +42,7 @@ just as you are.
 
 ---
 
-## Before we begin and why you should care
+## Preface
 
 > Even if you didn’t inherit harmony, you can build it — one honest moment at a time.
 
