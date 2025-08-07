@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.1.6-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.7-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1506,6 +1506,12 @@ This conversation explores how unwavering inner faith, as exemplified by Buddha 
 In emotionally driven personalities like ENFP-T, there's a natural tendency to romanticize emotional connection as the highest form of collaboration — especially in the workplace. This often leads to unconscious projection: assuming others *should* value emotional resonance, and feeling hurt or confused when they don’t. This module marks a shift in awareness — from emotional idealism to cognitive empathy — allowing Little Dan to honor his own values while coexisting with fundamentally different personalities. By de-romanticizing emotional universality, we create more space for clarity, collaboration, and internal freedom.
 
 [Read...](/pages/de-romance.md)
+
+### 7.28 The Double-Edged Sword: Storytelling as Evolutionary Gift and Relational Trap
+
+Storytelling is one of humanity’s greatest evolutionary strengths—allowing us to share knowledge, build cultures, and create meaning across generations. But in our most intimate relationships, this same instinct can quietly sabotage connection. Without realizing it, we often replace the real, living person in front of us with a fixed narrative shaped by past pain, fear, and unmet expectations. This case study explores the paradox of storytelling: how it made us human, yet becomes a hidden danger in love, and how becoming aware of this instinct can transform the way we see and relate to the people closest to us.
+
+[Read...](/pages/story-as-trap.md)
 
 ---
 
