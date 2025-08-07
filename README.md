@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.1.5-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.6-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -46,7 +46,7 @@ just as you are.
 
 > Even if you didn’t inherit harmony, you can build it — one honest moment at a time.
 
-Today (after inventing and practicing this framework for half year), I had a conversation with my parents that unexpectedly revealed the full arc of the Little Dan Framework — not as an abstract concept, but as a **living path** between two very different inner worlds.
+Today (after inventing and practicing this framework for half year which detailed in Chapter 7: Journeys), I had a conversation with my parents that unexpectedly revealed the full arc of the Little Dan Framework — not as an abstract concept, but as a **living path** between two very different inner worlds.
 
 ### 👨 My Dad: Embodied Integration without a Framework
 
