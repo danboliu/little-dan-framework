@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.1.7-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.8-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1512,6 +1512,12 @@ In emotionally driven personalities like ENFP-T, there's a natural tendency to r
 Storytelling is one of humanity’s greatest evolutionary strengths—allowing us to share knowledge, build cultures, and create meaning across generations. But in our most intimate relationships, this same instinct can quietly sabotage connection. Without realizing it, we often replace the real, living person in front of us with a fixed narrative shaped by past pain, fear, and unmet expectations. This case study explores the paradox of storytelling: how it made us human, yet becomes a hidden danger in love, and how becoming aware of this instinct can transform the way we see and relate to the people closest to us.
 
 [Read...](/pages/story-as-trap.md)
+
+### 7.29 Little Big Bubbles
+
+This case study examines a subtle yet powerful shift in workplace mindset—from approaching every meeting as a high-stakes test of personal worth to engaging as a collaborative problem-solver. By moving from a “performer” stance, driven by the need to prove value through strong, definitive statements, to a “helper” stance that offers ideas in a softer, less self-attached way, the individual experienced greater ease, authenticity, and receptiveness from others. This change not only reduced self-imposed pressure but also preserved influence, showing that impact often grows when the ego loosens its grip.
+
+[Read...](/pages/little-big-bubbles.md)
 
 ---
 
