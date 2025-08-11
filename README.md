@@ -1523,7 +1523,7 @@ This case study examines a subtle yet powerful shift in workplace mindset—from
 
 This case study examines how a subtle but deliberate shift—from defending oneself in moments of emotional tension to adopting a mindset of curiosity—can transform the quality of interpersonal interactions. By reframing defensive impulses as opportunities for open-ended investigation, individuals can reduce emotional volatility, break free from ego-driven loops, and foster deeper understanding in both personal and professional relationships.
 
-[Read...](/pages/curiocity.md)
+[Read...](/pages/curiosity.md)
 
 ---
 
