@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.1.8-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.9-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1518,6 +1518,12 @@ Storytelling is one of humanity’s greatest evolutionary strengths—allowing u
 This case study examines a subtle yet powerful shift in workplace mindset—from approaching every meeting as a high-stakes test of personal worth to engaging as a collaborative problem-solver. By moving from a “performer” stance, driven by the need to prove value through strong, definitive statements, to a “helper” stance that offers ideas in a softer, less self-attached way, the individual experienced greater ease, authenticity, and receptiveness from others. This change not only reduced self-imposed pressure but also preserved influence, showing that impact often grows when the ego loosens its grip.
 
 [Read...](/pages/little-big-bubbles.md)
+
+### 7.30 Case Study: Transforming Emotional Reactions into Curiosity
+
+This case study examines how a subtle but deliberate shift—from defending oneself in moments of emotional tension to adopting a mindset of curiosity—can transform the quality of interpersonal interactions. By reframing defensive impulses as opportunities for open-ended investigation, individuals can reduce emotional volatility, break free from ego-driven loops, and foster deeper understanding in both personal and professional relationships.
+
+[Read...](/pages/curiocity.md)
 
 ---
 
