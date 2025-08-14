@@ -1525,7 +1525,7 @@ This case study examines how a subtle but deliberate shift—from defending ones
 
 [Read...](/pages/curiosity.md)
 
-### 7.31 External validation reflex
+### 7.31 Trusting Little Dan
 
 [Read...](/pages/external-validation-back.md)
 
