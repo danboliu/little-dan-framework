@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.2.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1655,6 +1655,12 @@ This case study explores the tension between stability and adaptability in human
 This protocol outlines a moral framework for the co-evolution of AI and humanity, centered on the principle that each individual has the right to define and pursue their own happiness—so long as it does not increase the suffering of others. It proposes a decentralized, dynamic ethical system in which AI serves not as a ruler, but as a harmonizer that coordinates across billions of self-defined values. Rooted in compassion, consent, and non-harm, this framework seeks to balance moral freedom with collective well-being, offering a scalable path toward ethical alignment in a world of growing cognitive diversity.
 
 [... Read more](pages/human-ai-protocol.md)
+
+### The Truth Crisis in the Age of Social Media — and the Hope for AI Partners
+
+In the age of social media, information doesn’t spread because it’s true—it spreads because it’s clickable. Emotional, dramatic, and divisive narratives often outcompete calm, factual analysis, creating a “Gresham’s Law of ideas” where bad memes drive out good ones. This dynamic isn’t random; it’s rooted in evolution itself. While truth is essential for science and technology, human societies have always relied on stories to mobilize cooperation at scale. The challenge now is that our storytelling systems have been hijacked by platforms optimized for engagement, not truth. The question is: can AI help us restore balance—preserving the power of narrative while reanchoring it to reality?
+
+[... Read more](pages/dual-system.md)
 
 ## 10. Contributions
 
