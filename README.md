@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.2.1-blue.svg)
+![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1528,6 +1528,12 @@ This case study examines how a subtle but deliberate shift—from defending ones
 ### 7.31 Trusting Little Dan
 
 [Read...](/pages/external-validation-back.md)
+
+### 7.32 Second awakening
+
+I am truly ordinary and weak at times and that's the fact.
+
+[Read...](/pages/second-awaken.md)
 
 ---
 
