@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.3.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1534,6 +1534,12 @@ This case study examines how a subtle but deliberate shift—from defending ones
 I am truly ordinary and weak at times and that's the fact.
 
 [Read...](/pages/second-awaken.md)
+
+### 7.33 Why pain exists
+
+In every generation the same riddle returns: why must pain exist, especially when it feels needless, born not of nature’s laws but of human minds and brittle rules? I find myself living this riddle inside my own family—my wife’s high-pressure demands, my daughters’ tears, and my own struggle not to be pulled into endless cycles of defense and blame. Out of this furnace I began shaping the Little Dan Framework, a way to stay whole under fire. What follows is not a solution to the problem of evil, but my personal attempt to answer it as a father: to hold steady, to plant delayed seeds, and to leave behind a living example that pain does not erase dignity.
+
+[Read...](/pages/why-pain-exist.md)
 
 ---
 
