@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.3.1-blue.svg)
+![Version](https://img.shields.io/badge/version-1.3.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1540,6 +1540,12 @@ I am truly ordinary and weak at times and that's the fact.
 In every generation the same riddle returns: why must pain exist, especially when it feels needless, born not of nature’s laws but of human minds and brittle rules? I find myself living this riddle inside my own family—my wife’s high-pressure demands, my daughters’ tears, and my own struggle not to be pulled into endless cycles of defense and blame. Out of this furnace I began shaping the Little Dan Framework, a way to stay whole under fire. What follows is not a solution to the problem of evil, but my personal attempt to answer it as a father: to hold steady, to plant delayed seeds, and to leave behind a living example that pain does not erase dignity.
 
 [Read...](/pages/why-pain-exist.md)
+
+### 7.34 Anxiety Signals — True Alerts vs. False Alarms
+
+Anxiety is not a single enemy to be erased, but a signaling system that the body uses to draw attention to potential mismatches between self and environment. The real challenge lies in interpreting these signals correctly: sometimes they are **true alerts**, pointing to real risks, blind spots, or threats that require immediate action, while other times they are **false alarms**, triggered by outdated scripts, cultural conditioning, or imagined judgments. Treating all anxiety the same—either by suppressing it or by panicking—blurs this distinction and prevents us from responding wisely. The purpose of this case study is to show how separating true alerts from false alarms transforms anxiety from a burden into a navigation tool for both personal growth and daily decision-making.
+
+[Read...](/pages/true-false-alarm.md)
 
 ---
 
