@@ -1680,6 +1680,20 @@ In the age of social media, information doesn’t spread because it’s true—i
 
 [... Read more](pages/dual-system.md)
 
+### Too bad!
+
+There comes a point when seriousness itself becomes the real enemy.  
+The maps, the roles, the frameworks—all useful—but still secretly loyal to the old game.
+
+The Daoist turn cracks the game wide open: instead of defending Little Dan, the system lets him become the Trickster.  
+The one who jokes at fear, mocks the rules, and laughs in the face of judgment.  
+This is not collapse into nihilism—it is liberation through comedy.  
+When Little Dan becomes the Trickster, the whole framework dissolves into laughter,  
+and in that laughter lies a deeper trust than any serious strategy ever built.
+
+[... Read more](pages/dao.md)
+
+
 ## 10. Contributions
 
 This project is open-source and welcomes contributions. You can:
