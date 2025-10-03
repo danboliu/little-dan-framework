@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.6.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.6.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -381,6 +381,68 @@ This module activates when:
 
 ### Reflections from Dan
 > *“I used to treat every situation like a performance review. Now, if I just notice the shift in how I feel or how I see, I already know I’m growing. It’s not about being flawless — it’s about feeling the quiet confidence of walking the right path, even if I stumble. That’s enough. That’s real.”*
+
+## Core Principle: Liberation Through Discomfort
+
+**Statement**
+> Freedom grows when I turn toward what hurts to look at, ask the raw question, and stay with the answer long enough for truth to surface.
+
+---
+
+### Rationale
+- **Avoidance inflates pain.** What I refuse to see multiplies in shadow.
+- **Attention transforms.** When I face the thing directly, it becomes information instead of threat.
+- **Truth is lighter than narrative.** Coherence is optional; clarity is non-negotiable.
+
+---
+
+### Operating Rules
+1. **Name it plainly.** Describe what is happening without spin or theory.
+2. **Ask the raw question.** “What is the truth here that I don’t want to admit?”
+3. **Stay with sensation.** Track body signals (heat, tightness, dullness) without fixing them.
+4. **Separate signal from story.** Note facts vs. interpretations; keep both, don’t fuse them.
+5. **Decide one small action.** Choose a move aligned with truth, not comfort.
+6. **Release the residue.** Breath, walk, stretch, or write to discharge nervous-system load.
+
+---
+
+### Micro-Practices (5–90 seconds)
+- **Label + Locate:** “Anger in chest, 7/10, buzzing.”  
+- **One Breath Longer:** When I want to look away, stay for one more slow exhale.  
+- **Two-Column Truth:** Left = facts. Right = stories. Draw a line between them.  
+- **Mantra:** “Let it be true.”  
+- **Exit Move:** One tiny integrity action (message, boundary, rest).
+
+---
+
+### Anti-Patterns to Watch
+- **Premature coherence:** Forcing a neat story to avoid discomfort.
+- **Moral makeup:** Calling it “good/bad” to skip seeing it clearly.
+- **Endless analysis:** Thinking as anesthesia; no contact with sensation.
+- **Heroics:** Big dramatic promises instead of small honest steps.
+
+---
+
+### Checkpoints
+- Did I state the uncomfortable fact *without* softening language?
+- Did I feel it in the body for at least one full breath?
+- Can I distinguish what I **know** from what I **infer**?
+- What is the smallest truthful action I can take today?
+
+---
+
+### Example Template
+**Context:** `What happened (just the facts).`  
+**Raw Question:** `What truth am I avoiding?`  
+**Body Readout:** `Where/what/how strong?`  
+**Signal vs Story:** `Signal = … | Story = …`  
+**Action:** `One step aligned with truth.`  
+**Release:** `Breath / walk / stretch / write.`
+
+---
+
+### North Star
+> I choose clarity over comfort. I accept paradox over pretense. I let reality be messy and keep my integrity clean.
 
 ## 7. Journey
 
