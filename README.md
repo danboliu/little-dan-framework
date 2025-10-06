@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.6.1-blue.svg)
+![Version](https://img.shields.io/badge/version-1.6.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1608,6 +1608,12 @@ In every generation the same riddle returns: why must pain exist, especially whe
 Anxiety is not a single enemy to be erased, but a signaling system that the body uses to draw attention to potential mismatches between self and environment. The real challenge lies in interpreting these signals correctly: sometimes they are **true alerts**, pointing to real risks, blind spots, or threats that require immediate action, while other times they are **false alarms**, triggered by outdated scripts, cultural conditioning, or imagined judgments. Treating all anxiety the same—either by suppressing it or by panicking—blurs this distinction and prevents us from responding wisely. The purpose of this case study is to show how separating true alerts from false alarms transforms anxiety from a burden into a navigation tool for both personal growth and daily decision-making.
 
 [Read...](/pages/true-false-alarm.md)
+
+### 7.35 The Shift from Conditional Freedom to True Ownership
+
+This case study examines a subtle yet transformative psychological shift within a long-term relationship—from living in **conditional autonomy**, where one’s stability depends on a partner’s cooperation, to embodying **true ownership**, where freedom arises from inner authorship rather than external permission. Through the lens of everyday interactions, it illustrates how a person can move beyond defensive planning and emotional dependency into a state of natural, self-sustaining agency, revealing that real independence is not achieved through control but through the quiet certainty of being one’s own reference point.
+
+[Read...](/pages/self-author.md)
 
 ---
 
