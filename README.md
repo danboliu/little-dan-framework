@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.6.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.6.3-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1614,6 +1614,12 @@ Anxiety is not a single enemy to be erased, but a signaling system that the body
 This case study examines a subtle yet transformative psychological shift within a long-term relationship—from living in **conditional autonomy**, where one’s stability depends on a partner’s cooperation, to embodying **true ownership**, where freedom arises from inner authorship rather than external permission. Through the lens of everyday interactions, it illustrates how a person can move beyond defensive planning and emotional dependency into a state of natural, self-sustaining agency, revealing that real independence is not achieved through control but through the quiet certainty of being one’s own reference point.
 
 [Read...](/pages/self-author.md)
+
+### 7.36 Danger of reflection
+
+This case study examines the hidden danger of reflection—how something celebrated as wisdom can quietly become a tool of control. It traces the evolution from overthinking during emotional storms to over-modeling others in moments of calm, revealing that both distort reality and drain trust. True reflection, as discovered through lived experience, is not about predicting or correcting others but about understanding one’s own motives and patterns. When reflection turns inward and occurs only in a settled state, it stops serving anxiety and begins serving awareness, transforming from a defensive habit into a genuine act of presence.
+
+[Read...](/pages/reflection.md)
 
 ---
 
