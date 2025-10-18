@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.6.4-blue.svg)
+![Version](https://img.shields.io/badge/version-1.6.5-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1620,6 +1620,12 @@ This case study examines a subtle yet transformative psychological shift within 
 This case study examines the hidden danger of reflection—how something celebrated as wisdom can quietly become a tool of control. It traces the evolution from overthinking during emotional storms to over-modeling others in moments of calm, revealing that both distort reality and drain trust. True reflection, as discovered through lived experience, is not about predicting or correcting others but about understanding one’s own motives and patterns. When reflection turns inward and occurs only in a settled state, it stops serving anxiety and begins serving awareness, transforming from a defensive habit into a genuine act of presence.
 
 [Read...](/pages/reflection.md)
+
+### 7.37 Emotion as signal
+
+At this stage of the journey, anger transformed from something Dan had long feared and suppressed into a natural wave of truth moving through the body. After years of swallowing unfairness, he finally allowed the emotion to complete its course—no longer judging it as “wrong” or “unspiritual,” but recognizing it as a physiological correction. The release wasn’t explosive; it was restorative. What once felt like moral failure now revealed itself as a cleansing mechanism, allowing the nervous system to exhale the residues of injustice. In that moment, anger ceased to be an enemy and became a loyal messenger that had simply waited too long to deliver its message.
+
+[Read...](/pages/emotion-as-signal.md)
 
 ---
 
