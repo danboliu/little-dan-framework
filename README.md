@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.6.5-blue.svg)
+![Version](https://img.shields.io/badge/version-1.7.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -443,6 +443,75 @@ This module activates when:
 
 ### North Star
 > I choose clarity over comfort. I accept paradox over pretense. I let reality be messy and keep my integrity clean.
+
+## 🧩 Little Dan Framework — Advanced Mode  
+### *The Law of Minimum Openness: From Ideal Safety to Adaptive Boundaries*
+
+---
+
+### I. The Earlier Paradigm — Safety Through Oneness  
+In the original design, the highest state was **total dissolution**:  
+when the world felt safe, Little Dan opened every boundary and merged completely with life.  
+Safety meant **alignment** — a perfect world reflecting a perfect self.  
+But this harmony was fragile.  
+The moment the world tilted, Little Dan tilted with it.  
+Peace depended on external stability, not internal resilience.  
+
+---
+
+### II. The Evolution — Adaptive Boundary Governance  
+The advanced mode introduces a second-order skill: **to regulate, not erase, the boundary**.  
+The boundary becomes a **dial**, not a wall or void.  
+Little Dan learns to modulate permeability based on environmental coherence:
+
+| Context | Boundary Mode | Purpose |
+|----------|---------------|----------|
+| Flow / Surfing | Dissolved | Full immersion for creative union |
+| Genuine Connection | Thin | Deep empathy without self-loss |
+| Everyday Functioning | Medium | Balanced engagement with discernment |
+| Conflict / Hostility | Thick but Porous | Self-protection with minimum lifeline |
+
+This ability transforms Little Dan from a *reactive child* to a *self-governing organism*.  
+
+---
+
+### III. The Critical Insight — Never Close All Ports  
+In hostile conditions, the old reflex was **total shutdown**:  
+cut all input to prevent pain.  
+But a sealed system stops receiving feedback, cannot recalibrate, and begins to decay.  
+The new law insists on **minimum openness** — a heartbeat of contact that keeps perception, empathy, and learning alive.  
+
+Even one open port — to truth, curiosity, or compassion —  
+preserves life.  
+It allows reality to re-enter and the self to adapt, instead of fossilizing into fear.  
+
+---
+
+### IV. The Meta-Shift — From Controlling the World to Controlling Relation to the World  
+Formerly, security meant **making the world align** with inner order.  
+Now it means **governing the interface** between self and world.  
+This second-order control doesn’t seek dominance but **responsiveness**.  
+It converts chaos into information instead of threat.  
+The self remains centered even while the environment changes shape.  
+
+---
+
+### V. Why This Matters  
+1. **Psychological Freedom:** Safety no longer depends on external approval or predictability.  
+2. **Sustainable Empathy:** You can stay connected without being consumed.  
+3. **Continuous Learning:** Open ports keep feedback flowing, preventing emotional atrophy.  
+4. **Systemic Resilience:** Boundaries flex and self-repair instead of breaking under pressure.  
+5. **Spiritual Realism:** Unity becomes a *choice of rhythm*, not a permanent state.  
+
+---
+
+### VI. Principle Summary  
+
+> **The Law of Minimum Openness**  
+>   
+> Even when the world turns hostile, keep at least one channel open.  
+> Safety lies not in closure, but in the capacity to remain alive to reality without losing your center.  
+> The art of Little Dan is not perfect harmony, but graceful modulation between fusion and sovereignty.
 
 ## 7. Journey
 
