@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.7.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.7.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1695,6 +1695,12 @@ This case study examines the hidden danger of reflection—how something celebra
 At this stage of the journey, anger transformed from something Dan had long feared and suppressed into a natural wave of truth moving through the body. After years of swallowing unfairness, he finally allowed the emotion to complete its course—no longer judging it as “wrong” or “unspiritual,” but recognizing it as a physiological correction. The release wasn’t explosive; it was restorative. What once felt like moral failure now revealed itself as a cleansing mechanism, allowing the nervous system to exhale the residues of injustice. In that moment, anger ceased to be an enemy and became a loyal messenger that had simply waited too long to deliver its message.
 
 [Read...](/pages/emotion-as-signal.md)
+
+### 7.38 Loops
+
+This section reveals a quiet symmetry hidden beneath surface differences in behavior: both  man and woman seek safety through control, though expressed in opposite languages. His control takes the form of logic, analysis, and coherence — a cognitive shield against chaos. Hers takes the form of emotional direction, tone, and pursuit — a relational shield against disconnection. What once appeared as conflict between reason and emotion is, at its core, two nervous systems using distinct strategies to manage the same fear: losing control of an unpredictable world. Recognizing this shared root transforms tension into empathy and opposition into co-regulation.
+
+[Read...](/pages/two-loops.md)
 
 ---
 
