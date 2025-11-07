@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.7.1-blue.svg)
+![Version](https://img.shields.io/badge/version-1.8.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1701,6 +1701,12 @@ At this stage of the journey, anger transformed from something Dan had long fear
 This section reveals a quiet symmetry hidden beneath surface differences in behavior: both  man and woman seek safety through control, though expressed in opposite languages. His control takes the form of logic, analysis, and coherence — a cognitive shield against chaos. Hers takes the form of emotional direction, tone, and pursuit — a relational shield against disconnection. What once appeared as conflict between reason and emotion is, at its core, two nervous systems using distinct strategies to manage the same fear: losing control of an unpredictable world. Recognizing this shared root transforms tension into empathy and opposition into co-regulation.
 
 [Read...](/pages/two-loops.md)
+
+### True freedom
+
+Human beings begin life with a form of raw, unconstructed resilience—a way of moving through the world without shame, self-judgment, or narrative interpretation. As we grow, we step into a symbolic social landscape built from stories about competence, status, strength, and belonging. These narratives help society coordinate, but they also reshape the psyche, turning neutral experiences into identity events and gradually burying the spontaneous, fearless raw self beneath layers of social meaning. This case study traces, step by step, how that transformation occurs, how individuals become fragile within narrative structures, and how true freedom emerges when one finally sees the story as story—not a reality to defend or obey, but a tool to navigate lightly and wisely.
+
+[Read...](/pages/true-freedom.md)
 
 ---
 
