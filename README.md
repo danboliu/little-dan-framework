@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.8.1-blue.svg)
+![Version](https://img.shields.io/badge/version-1.8.2-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1702,11 +1702,17 @@ This section reveals a quiet symmetry hidden beneath surface differences in beha
 
 [Read...](/pages/two-loops.md)
 
-### True freedom
+### 7.39 True freedom
 
 Human beings begin life with a form of raw, unconstructed resilience—a way of moving through the world without shame, self-judgment, or narrative interpretation. As we grow, we step into a symbolic social landscape built from stories about competence, status, strength, and belonging. These narratives help society coordinate, but they also reshape the psyche, turning neutral experiences into identity events and gradually burying the spontaneous, fearless raw self beneath layers of social meaning. This case study traces, step by step, how that transformation occurs, how individuals become fragile within narrative structures, and how true freedom emerges when one finally sees the story as story—not a reality to defend or obey, but a tool to navigate lightly and wisely.
 
 [Read...](/pages/true-freedom.md)
+
+### 7.40 The self and the role
+
+This case study traces the psychological evolution of a deeply reflective professional who spent two decades navigating corporate life with high emotional intelligence while unconsciously sacrificing his authentic self in the process. Through a sequence of insights, he uncovered the core mistake beneath his anxiety and tension: he had been placing his most vulnerable inner self into hierarchical, evaluative environments that required only a functional role. The journey culminates in a powerful distinction between “Self” and “Role,” revealing when to protect the inner self, when to deploy the professional persona, and how embracing this separation restores freedom, confidence, and emotional stability in non-exitable workplace relationships.
+
+[Read...](/pages/self-role.md)
 
 ---
 
