@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.8.2-blue.svg)
+![Version](https://img.shields.io/badge/version-1.8.3-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1713,6 +1713,12 @@ Human beings begin life with a form of raw, unconstructed resilience—a way of 
 This case study traces the psychological evolution of a deeply reflective professional who spent two decades navigating corporate life with high emotional intelligence while unconsciously sacrificing his authentic self in the process. Through a sequence of insights, he uncovered the core mistake beneath his anxiety and tension: he had been placing his most vulnerable inner self into hierarchical, evaluative environments that required only a functional role. The journey culminates in a powerful distinction between “Self” and “Role,” revealing when to protect the inner self, when to deploy the professional persona, and how embracing this separation restores freedom, confidence, and emotional stability in non-exitable workplace relationships.
 
 [Read...](/pages/self-role.md)
+
+### 7.41 A brief history of blushing
+
+This case study traces the long journey from Little Dan’s early struggle with blushing in high-pressure moments to the quiet breakthrough that happened only after years of trying to think his way out of the discomfort. It shows how an intelligent mind can build intricate reasoning structures that feel convincing but sit on the wrong layer of the system, and how the real transformation began only when blushing was finally understood as a biological release of unused activation rather than a signal about identity. What follows is the story of how the maze was built, why it held for so long, and how the simple shift to the correct level dissolved the loop that logic alone could never resolve.
+
+[Read...](/pages/blushing-history.md)
 
 ---
 
