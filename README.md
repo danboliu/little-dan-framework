@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-1.8.3-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1719,6 +1719,13 @@ This case study traces the psychological evolution of a deeply reflective profes
 This case study traces the long journey from Little Dan’s early struggle with blushing in high-pressure moments to the quiet breakthrough that happened only after years of trying to think his way out of the discomfort. It shows how an intelligent mind can build intricate reasoning structures that feel convincing but sit on the wrong layer of the system, and how the real transformation began only when blushing was finally understood as a biological release of unused activation rather than a signal about identity. What follows is the story of how the maze was built, why it held for so long, and how the simple shift to the correct level dissolved the loop that logic alone could never resolve.
 
 [Read...](/pages/blushing-history.md)
+
+### 7.42 Case Study: The Transition From Mental Instruction to Embodied Knowing
+
+This case study explores a psychological turning point in which deliberate mental instruction gave way to a quiet, self-regulating embodied knowing. For years, Dan relied on frameworks, concepts and reminders to manage emotions and maintain clarity, only to discover that these cognitive tools created a subtle pressure that fed anxiety rather than dissolving it. Over time, a deeper shift emerged: calm began to arise on its own, emotional events lost their heaviness, and the body started responding before the mind could issue commands. What follows is an examination of how this transition unfolded, why it matters, and why the disappearance of the need for instruction is not a loss of discipline but a milestone in personal evolution.
+
+
+[Read...](/pages/mind-to-body.md)
 
 ---
 
