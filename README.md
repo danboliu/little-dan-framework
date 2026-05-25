@@ -1,5 +1,5 @@
 # Little Dan Framework
-![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0.1-blue.svg)
 
 *A psychological model that helps individuals live more fulfilling and authentic lives by integrating emotion, logic, and observation into a meaningful inner system.*
 
@@ -1911,6 +1911,12 @@ enlightenment doesn’t always come from stillness —
 sometimes, it arrives with a juicy laugh.
 
 [... Read more](pages/trickster-monk.md)
+
+### Reasoning and reflex for both AI and human
+
+This chapter began from a simple observation in AI agent design: when a workflow is repeated often enough, it should not be reasoned through from scratch every time. The deterministic part can be turned into a script, a tool, or a skill, so the agent can save reasoning energy and focus on judgment. But this technical pattern reveals something deeper about human beings. Our brains do the same thing. We turn repeated experiences into habits, reflexes, and autopilot responses. This is necessary for survival and efficiency, but it also creates a hidden danger: once an old assumption becomes executable, it may keep running long after reality has changed. In that sense, a bad habit is not just a behavior problem. It is outdated inner automation that needs to be inspected, debugged, and sometimes rewritten.
+
+[... Read more](pages/reasoning-reflex.md)
 
 ## 10. Contributions
 
